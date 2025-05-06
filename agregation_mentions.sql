@@ -9,11 +9,11 @@
  * variantes ortographiques ?
  */
 
--- regrouper et compter les métiers
+-- regrouper et compter les différents métiers
 WITH tw1 AS ( 
 SELECT Nom || ' ' || Prenom AS person, "Ville origine" origine
 FROM Mention m)
-SELECT person, count(*) as number, GROUP_CONCAT(origine, ',')
+SELECT person, count(*) as number, GROUP_CONCAT(origine, ',') AS lieu
 FROM tw1
 GROUP BY person
 ORDER BY number DESC;
@@ -104,7 +104,7 @@ WITH tw1 AS (
 	INSTR(Domicile, '/') val, TRIM(Domicile) domicile
 	FROM Mention m 
 )
-SELECT partie_a, partie_b, count(*) as nombre, MIN(domicile)
+SELECT partie_a, partie_b, count(*) as nombre, MIN(domicile) AS original
 FROM tw1
 GROUP BY partie_b, partie_a
 ORDER BY nombre DESC;
