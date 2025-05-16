@@ -1,37 +1,42 @@
 "partie_a","partie_b","nombre","original"
 "",,16,
+"",Bärtschi,13,Bärtschi
+"",Müller,13,Müller
 "",Combe 25,11,Combe 25
-"",Müller,11,Müller
-"",Bartschi,10,Bartschi
+Fleur de lys,Léopold Robert 13,9,Fleur de lys / Léopold Robert 13
 "",Léopold Robert 5,9,Léopold Robert 5
-"",Fleur de lys,8,Fleur de lys
+Usine à gaz,Collège 31,8,Usine à gaz / Collège 31
 "",Arsenal 10,7,Arsenal 10
 "",Bargiga,7,Bargiga
 "",Combe 54,7,Combe 54
-"",Usine à gaz,7,Usine à gaz
-Bartschi,Chapelle 3,5,Bartschi / Chapelle 3
+Bärtschi,Chapelle 3,6,Bärtschi/ Chapelle 3
 "",Combe 40,5,Combe 40
 "",Grand Rue 6,5,Grand Rue 6
 "",Versoix 1,5,Versoix 1
+"",Gonthier,4,Gonthier
 "",Prebandier,4,Prebandier
+"",Terreaux 12,4,Terreaux 12
 "","",3,""
 "",Balance 10,3,Balance 10
 "",Collège 31,3,Collège 31
 Prebandier,Combe 40,3,Prebandier / Combe 40
+Baraques,Convers,3,Baraques / Convers
 "",Grand Rue 28,3,Grand Rue 28
-"",Juif 8,3,Juif 8
+"",Juifs 8,3,Juifs 8
 "",Léopold Robert 28,3,Léopold Robert 28
 Casagrande,Léopold Robert 5,3,Casagrande / Léopold Robert 5
 "",Léopold Robert 6,3,Léopold Robert 6
 "",Place d'Armes 4,3,Place d'Armes 4
+"",Puits 17,3,Puits 17
+"",Puits 18,3,Puits 18
 "",Puits 50,3,Puits 50
 "",Robert,3,Robert
+Guillaume Tell,Robert 5,3,Guillaume Tell / Robert 5
 "",Sauser,3,Sauser
-"",Terreaux 12,3,Terreaux 12
 "",Balance 12,2,Balance 12
 "",Balance 8,2,Balance 8
 "",Balance 9,2,Balance 9
-"",Bertschi,2,Bertschi
+"",Barberat,2,Barberat
 "",Calame,2,Calame
 "",Casagrande,2,Casagrande
 "",Charrière 115,2,Charrière 115
@@ -40,25 +45,26 @@ Casagrande,Léopold Robert 5,3,Casagrande / Léopold Robert 5
 "",Citadelle 2,2,Citadelle 2
 "",Combe 27,2,Combe 27
 "",Combe 60,2,Combe 60
+"",Cornes Morel 24,2,Cornes Morel 24
+"",Dubois,2,Dubois
 "",Dufour 8,2,Dufour 8
 "",Duret,2,Duret
-"",Gonthier,2,Gonthier
-"",Gouthier,2,Gouthier
 "",Grand Rue 48,2,Grand Rue 48
 "",Granges 102,2,Granges 102
-"",Guil. Tell,2,Guil. Tell
 "",Hotel,2,Hotel
 "",Hotel de ville 5,2,Hotel de ville 5
-"",Juif 4,2,Juif 4
-"",Muller,2,Muller
+"",Jaquet Droz 128,2,Jaquet Droz 128
+"",Jeanjaquet,2,Jeanjaquet
+"",Juifs 2,2,Juifs 2
+"",Juifs 4,2,Juifs 4
+Tosetti,Léopold Robert 28,2,Tosetti / Léopold Robert 28
+"",Léopold Robert 29,2,Léopold Robert 29
 "",Nicolet,2,Nicolet
 "",Place Neuve 2,2,Place Neuve 2
 "",Place d'Armes,2,Place d'Armes
 Ravelli,Place d'Armes 4,2,Ravelli / Place d'Armes 4
 "",Pont 3,2,Pont 3
 "",Prebandier Combettes,2,Prebandier Combettes
-"",Puit 18,2,Puit 18
-"",Puits 17,2,Puits 17
 Borle,Puits 17,2,Borle/ Puits 17
 "",Richard,2,Richard
 "",Robert 16,2,Robert 16
@@ -67,21 +73,23 @@ Borle,Puits 17,2,Borle/ Puits 17
 "",Ronde 19,2,Ronde 19
 "",Ronde 20,2,Ronde 20
 "",Ronde 23,2,Ronde 23
+"",Rossel,2,Rossel
 "",Sacchi,2,Sacchi
 Rubin,Stand 27,2,Rubin / Stand 27
 Gnägi,Stand 5,2,Gnägi/ Stand 5
 "",Tissot,2,Tissot
 "",Tuilerie,2,Tuilerie
-"",	Hotel de la combe,1,	Hotel de la combe
 "",Aigle,1,Aigle
 "",Allège 27,1,Allège 27
 "",Arnotte,1,Arnotte
 Frascotti,Arsenal 10,1,Frascotti / Arsenal 10
 Léopold Robert 28,Arsenal 10,1,Léopold Robert 28 / Arsenal 10
-"",Art 17,1,Art 17
+"",Arts 17,1,Arts 17
 "",Aufran,1,Aufran
-"",B.Corne Morel 3,1,B.Corne Morel 3
+"",B.Cornes Morel 3,1,B.Cornes Morel 3
 "",Bailly,1,Bailly
+Robert,Balance,1,Robert / Balance
+"",Balance  8,1,Balance  8
 "",Balance 16,1,Balance 16
 "",Balance 183,1,Balance 183
 "",Balance 2,1,Balance 2
@@ -89,13 +97,7 @@ Léopold Robert 28,Arsenal 10,1,Léopold Robert 28 / Arsenal 10
 "",Balance 3,1,Balance 3
 "",Balance 38,1,Balance 38
 Tirozzi,Balance 9,1,Tirozzi / Balance 9
-"",Balance Robert,1,Balance Robert
-"",Balanco 8,1,Balanco 8
 "",Bamer Arsenallo,1,Bamer Arsenallo
-Serre 2,Baraque,1,Serre 2 / Baraque
-"",Baraque Convers,1,Baraque Convers
-"",Barberat,1,Barberat
-"",Barbezat,1,Barbezat
 "",Barbier,1,Barbier
 "",Bauer,1,Bauer
 "",Boinod,1,Boinod
@@ -106,9 +108,6 @@ Serre 2,Baraque,1,Serre 2 / Baraque
 "",Boinod 9,1,Boinod 9
 "",Brasserie,1,Brasserie
 "",Bulles,1,Bulles
-"",Bärtschi,1,Bärtschi
-"",Casino,1,Casino
-Bertschi,Chapelle 3,1,Bertschi/ Chapelle 3
 "",Chapelle 86,1,Chapelle 86
 "",Charrière 125,1,Charrière 125
 "",Charrière 15,1,Charrière 15
@@ -144,21 +143,15 @@ Kuhfups,Combe 63,1,Kuhfups/ Combe 63
 Tissot,Combe 71,1,Tissot / Combe 71
 "",Combe 74,1,Combe 74
 "",Combe 8,1,Combe 8
-"",Conver Baraque,1,Conver Baraque
-Baraques,Convers,1,Baraques /Convers
-"",Corne Morel 26,1,Corne Morel 26
+"",Cornes Morel,1,Cornes Morel
+"",Cornes Morel 26,1,Cornes Morel 26
 "",Cornes Morel 6,1,Cornes Morel 6
-"",Cornes Norel 24,1,Cornes Norel 24
-"",Corns Morel 24,1,Corns Morel 24
-"",Corve? Morel,1,Corve? Morel
 "",Cote Stand,1,Cote Stand
 "",Cure 6,1,Cure 6
 "",Cure 7,1,Cure 7
 Jacot,Cure 7,1,Jacot/ Cure 7
 "",D. Perrenoud,1,D. Perrenoud
-"",Debois,1,Debois
 "",Dec? 139,1,Dec? 139
-"",Defour 2,1,Defour 2
 "",Demagistri,1,Demagistri
 Vieullemin,Demoiselle 10,1,Vieullemin/ Demoiselle 10
 "",Demoiselle 15,1,Demoiselle 15
@@ -166,83 +159,73 @@ Vieullemin,Demoiselle 10,1,Vieullemin/ Demoiselle 10
 "",Demoiselle 2,1,Demoiselle 2
 "",Demoiselle 9,1,Demoiselle 9
 "",Droz,1,Droz
-"",Dubois,1,Dubois
 "",Dubreg,1,Dubreg
 "",Ducommun,1,Ducommun
 "",Dufour,1,Dufour
+"",Dufour 2,1,Dufour 2
 "",Envers 28,1,Envers 28
 "",Eug. Jacot,1,Eug. Jacot
 "",Fleur de lys 15,1,Fleur de lys 15
-Cattaneo,Fluer de Lys 5,1,Cattaneo / Fluer de Lys 5
-"",Fluer de lys,1,Fluer de lys
+Cattaneo,Fleur de lys 5,1,Cattaneo / Fleur de lys 5
+Lyon d'or,Fritz Courvoisier 12,1,Lyon d'or / Fritz Courvoisier 12
 "",Gavard,1,Gavard
-"",Giboltar 6 ?,1,Giboltar 6 ?
 "",Gibraltar 45,1,Gibraltar 45
 "",Gibraltar 47,1,Gibraltar 47
+"",Gibraltar 6,1,Gibraltar 6
 "",Gibraltar 8,1,Gibraltar 8
 "",Gigon,1,Gigon
-Sacchi,Grand Rue,1,Sacchi/ Grand Rue
+Sacchi,Grand Rue,1,Sacchi / Grand Rue
 "",Grand Rue 135,1,Grand Rue 135
 "",Grand Rue 18,1,Grand Rue 18
-Tosetti,Grand Rue 18,1,Tosetti/ Grand Rue 18
+Tosetti,Grand Rue 18,1,Tosetti / Grand Rue 18
 "",Grand Rue 29,1,Grand Rue 29
 "",Grand Rue 5,1,Grand Rue 5
 "",Grand Rue 51,1,Grand Rue 51
 "",Grand Rue 58,1,Grand Rue 58
-"",Grand Rue 6 (Sacchi),1,Grand Rue 6 (Sacchi)
-"",Gremier 65,1,Gremier 65
+Sacchi,Grand Rue 6,1,Sacchi / Grand Rue 6
 "",Grenier 10,1,Grenier 10
 Lehmann,Grenier 2,1,Lehmann/ Grenier 2
 "",Grenier 24,1,Grenier 24
 Huguenin,Grenier 24,1,Huguenin/ Grenier 24
 "",Grenier 39,1,Grenier 39
+"",Grenier 65,1,Grenier 65
 "",Grenier 7,1,Grenier 7
 "",Grenier 73,1,Grenier 73
 Rubin,Gringes 9,1,Rubin / Gringes 9
+"",Grognerie,1,Grognerie
 "",Grognerie 10,1,Grognerie 10
-"",Grognesolo ?,1,Grognesolo ?
-"",Groguerie 15,1,Groguerie 15
-"",Groguerie 205,1,Groguerie 205
+"",Grognerie 15,1,Grognerie 15
+"",Grognerie 205,1,Grognerie 205
 "",Guerin,1,Guerin
-"",Guillaume,1,Guillaume
-"",H. de la Balance,1,H. de la Balance
 Mailler,Halita 6,1,Mailler/ Halita 6
 "",Hameau 109,1,Hameau 109
 "",Hopital 4,1,Hopital 4
 Couvant,Hotel de Ville 6,1,Couvant / Hotel de Ville 6
+"",Hotel de la Balance,1,Hotel de la Balance
+"",Hotel de la combe,1,Hotel de la combe
 F. Beaujour,Industrie 1,1,F. Beaujour/ Industrie 1
 "",Industrie 62,1,Industrie 62
 "",Industrie 64,1,Industrie 64
 "",Industrie 65,1,Industrie 65
-"",J. Droz 29,1,J. Droz 29
-"",Jacques Droz 128,1,Jacques Droz 128
-"",Jaquet Droz 128,1,Jaquet Droz 128
+"",Jaquet Droz 29,1,Jaquet Droz 29
 "",Jardinière,1,Jardinière
-"",Jeanjacquet,1,Jeanjacquet
-"",Jeanjaquet,1,Jeanjaquet
 "",Jet d'eau 85,1,Jet d'eau 85
-"",Juif 2,1,Juif 2
-Pecera,Juif 4,1,Pecera/ Juif 4
-"",Juifs 2,1,Juifs 2
+Pecera,Juifs 4,1,Pecera/ Juifs 4
 "",Kleintschi,1,Kleintschi
 "",Kummel,1,Kummel
 "",Kuntz,1,Kuntz
 "",La Louis Perrot,1,La Louis Perrot
 "",Lançon,1,Lançon
 "",Lissivrie,1,Lissivrie
-"",Lyon d'or,1,Lyon d'or
 "",Léopold Robert 12,1,Léopold Robert 12
 "",Léopold Robert 13,1,Léopold Robert 13
 Dambrod,Léopold Robert 14,1,Dambrod/ Léopold Robert 14
 "",Léopold Robert 18,1,Léopold Robert 18
 Perrenoux 7,Léopold Robert 27,1,Perrenoux 7 / Léopold Robert 27
-Tosetti,Léopold Robert 28,1,Tosetti / Léopold Robert 28
-"",Léopold Robert 28 Tossetti,1,Léopold Robert 28 Tossetti
-"",Léopold Robert 29,1,Léopold Robert 29
+Casino,Léopold Robert 29,1,Casino / Léopold Robert 29
 Storno,Léopold Robert 5,1,Storno / Léopold Robert 5
 Sacchi,Léopold Robert 6,1,Sacchi / Léopold Robert 6
 "",Léopold Robert 8,1,Léopold Robert 8
-"",Léopold Robert29,1,Léopold Robert29
 "",Léopold Ronde 13,1,Léopold Ronde 13
 "",Madame Busche,1,Madame Busche
 "",Maini,1,Maini
@@ -250,7 +233,6 @@ Sacchi,Léopold Robert 6,1,Sacchi / Léopold Robert 6
 "",Martin,1,Martin
 "",Mermod,1,Mermod
 "",Meuron,1,Meuron
-"",Neuve 8,1,Neuve 8
 "",Nicoles,1,Nicoles
 "",Ofraw?,1,Ofraw?
 "",Oliver 6,1,Oliver 6
@@ -261,24 +243,23 @@ Arman Tissot,Parc 12,1,Arman Tissot/ Parc 12
 "",Parc 5,1,Parc 5
 "",Place ? 109,1,Place ? 109
 "",Place Neuve 10,1,Place Neuve 10
+Demoiselle Robert,Place Neuve 2,1,Demoiselle Robert/ Place Neuve 2
 Gagneux,Place Neuve 2,1,Gagneux/ Place Neuve 2
+"",Place Neuve 8,1,Place Neuve 8
 Bille,Place Neuve 8,1,Bille / Place Neuve 8
 "",Place d'Armes 2,1,Place d'Armes 2
 "",Place d'Armes 20,1,Place d'Armes 20
 Frascotti,Place d'Armes 4,1,Frascotti/ Place d'Armes 4
-Léopold Robert 5,Place des Armes 4,1,Léopold Robert 5 / Place des Armes 4
-Demoiselle Robert,Plave Neuve 2,1,Demoiselle Robert/ Plave Neuve 2
+Léopold Robert 5,Place d'Armes 4,1,Léopold Robert 5 / Place d'Armes 4
 "",Polanche,1,Polanche
 "",Prelaudier,1,Prelaudier
 "",Primu,1,Primu
 "",Privat,1,Privat
-"",Prom. 46,1,Prom. 46
 "",Promenade 35,1,Promenade 35
+"",Promenade 46,1,Promenade 46
 "",Promenade 48,1,Promenade 48
 "",Pré 127,1,Pré 127
-"",Pues,1,Pues
-"",Puist 17,1,Puist 17
-"",Puits 18,1,Puits 18
+"",Puits,1,Puits
 "",Puits 28,1,Puits 28
 "",Puits 47,1,Puits 47
 "",Raimond,1,Raimond
@@ -291,17 +272,17 @@ Casagrande,Robert 5,1,Casagrande / Robert 5
 Stand 20,Robert 5,1,Stand 20 / Robert 5
 Storno,Robert 5,1,Storno / Robert 5
 "",Robert 50,1,Robert 50
-"",Robey 6 ?,1,Robey 6 ?
+"",Robert 6,1,Robert 6
+"",Ronde,1,Ronde
 Viotti,Ronde 20,1,Viotti/ Ronde 20
-Tosetti,Ronde 28,1,Tosetti/ Ronde 28
+Tosetti,Ronde 28,1,Tosetti / Ronde 28
 "",Ronde 29,1,Ronde 29
 "",Ronde 3,1,Ronde 3
 "",Ronde 37,1,Ronde 37
-"",Rossel,1,Rossel
 "",Roulet,1,Roulet
-"",Russel,1,Russel
 "",Sauser des Juifs,1,Sauser des Juifs
 "",Serre 121,1,Serre 121
+Baraques,Serre 2,1,Baraques / Serre 2
 "",Serre 30,1,Serre 30
 "",Serre 8,1,Serre 8
 "",Soleil 17,1,Soleil 17
@@ -318,25 +299,22 @@ Bassin,Stand 5,1,Bassin/ Stand 5
 "",Steiner,1,Steiner
 "",Syot,1,Syot
 "",Temple 2,1,Temple 2
-D. Mercier,Terraux 1,1,D. Mercier/ Terraux 1
-"",Terraux 12,1,Terraux 12
 "",Terreaux 1,1,Terreaux 1
+D. Mercier,Terreaux 1,1,D. Mercier/ Terreaux 1
 Magnini,Terreaux 12,1,Magnini / Terreaux 12
 "",Terreaux 14,1,Terreaux 14
 Primperi,Terreaux 4,1,Primperi/ Terreaux 4
 "",Terreaux 8,1,Terreaux 8
 "",Tobel,1,Tobel
-"",Tossetti,1,Tossetti
+"",Tosetti,1,Tosetti
 "",Ulysse Gabus,1,Ulysse Gabus
 "",Ulysse Verger,1,Ulysse Verger
 "",Valauvron 27,1,Valauvron 27
 "",Versoix 2,1,Versoix 2
 "",Versoix 8,1,Versoix 8
-Zindey,Versoix 90,1,Zindey/ Versoix 90
+Zindey,Versoix 90,1,Zindey / Versoix 90
 "",Veuve Joly,1,Veuve Joly
 "",Viatte,1,Viatte
 "",Zeller,1,Zeller
-"",de la Ronde,1,de la Ronde
 "",les bains Jolet,1,les bains Jolet
-"",usine à gaz,1,usine à gaz
 "",à la gare,1,à la gare
