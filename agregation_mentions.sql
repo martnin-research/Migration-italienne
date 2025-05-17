@@ -11,9 +11,9 @@
 
 -- regrouper et compter les différents métiers
 WITH tw1 AS ( 
-SELECT Nom || ' ' || Prenom AS person, "Ville origine" origine
+SELECT Nom || ' ' || Prenom AS person, "ville_origine" origine, metier as metier
 FROM Mention m)
-SELECT person, count(*) as number, GROUP_CONCAT(origine, ',') AS lieu
+SELECT person, count(*) as number, GROUP_CONCAT(origine, ',') AS lieu, metier
 FROM tw1
 GROUP BY person
 ORDER BY number DESC;
