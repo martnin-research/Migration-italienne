@@ -1,45 +1,45 @@
 "TRIM(Metier)","number"
-gypseur,105
-colporteur,26
+gypseur,113
+colporteur,27
 ramoneur,19
 maçon,17
+menuisier,16
 manœuvre,16
-menuisier,15
 ferblantier,15
 horloger,13
 graveur,11
 servante,10
 marchand,10
+cordonnier,10
 négociant,9
+remonteur,8
 maitre gypseur,8
 commisionaire,8
 émouleur,7
-remonteur,7
 monteur de boites,7
 platrier,6
-cordonnier,6
 coiffeur,6
 boitier,6
+,6
 émailleur,5
 négociante,5
 doreur,5
 charpentier,5
 app. gypseur,5
-,5
+vitrier,4
 tailleuse,4
 serrurier,4
 photographe,4
 mineur,4
+gazier,4
 ferblantier colporteur,4
 entrepreneur,4
 bijoutier,4
-vitrier,3
 repasseur,3
 maitresse de pension,3
 maitre ferblantier,3
 horlogère,3
 guillocheur,3
-gazier,3
 fumiste,3
 doreuse,3
 blanchisseur,3
@@ -55,6 +55,7 @@ marchand d'étoffes,2
 libraire,2
 gypseur cafetier,2
 faiseur de secrets,2
+entrepreneur de travaux,2
 domestique,2
 app. remonteur,2
 app. boitier,2
@@ -64,6 +65,7 @@ terrassier,1
 tailleur,1
 surnalière,1
 secreto ?,1
+secretaire de la voie du Jura,1
 remonteuse,1
 remonteur repateur,1
 quincailler,1
@@ -86,7 +88,6 @@ manœvre usine à gaz,1
 manœvre et entrepreneur,1
 maitre maçon,1
 maitre carrier,1
-maitre,1
 lingère,1
 horloger remonteur,1
 gypseur menuisier,1
@@ -99,19 +100,21 @@ fabricant de vis,1
 fabricant de secrets,1
 fabricant de glace,1
 fabricant casquette,1
-entrepreneur de travaux,1
 dégrofriseur,1
+doreur de boites,1
 directeur gazier,1
 daguerrotip (photographe),1
-cubaretier /terrassier,1
+cordonnier ambulant,1
 contromaitre,1
+commissionaire,1
 commisionaire voyageur,1
 chiffonnier,1
 chaudronnier,1
 cafetier/epicier,1
+cabaretier / terrassier,1
+cabaretier,1
 brunisseuse,1
 auguilleur,1
-appréndiste couvreur,1
 appareilleur,1
 app. tailleuse,1
 app. repasseur,1
@@ -124,4 +127,5 @@ app. fabricant parapluie,1
 app. epicier,1
 app. doreuse,1
 app. cuisinier,1
+app. couvreur,1
 adoneisseuse ?,1
