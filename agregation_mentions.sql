@@ -82,7 +82,7 @@ SELECT
 	END partie_b,
 INSTR(Domicile, '/') val, TRIM(Domicile) domicile
 FROM Mention m 
-ORDER BY val DESC ;
+ORDER BY val DESC;
 
 /*
  * On voit qu'il y a des données à corriger
