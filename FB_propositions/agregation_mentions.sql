@@ -54,9 +54,9 @@ ORDER BY number DESC;
  */
 
 -- regrouper et compter les villes
-SELECT TRIM("Ville origine") origine_ville, COUNT(*) AS number 
+SELECT TRIM(ville_origine) origine_ville, COUNT(*) AS number 
 FROM Mention m 
-GROUP BY TRIM("Ville origine" )
+GROUP BY TRIM(ville_origine)
 ORDER BY number DESC;
 
 
