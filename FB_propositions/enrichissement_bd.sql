@@ -56,3 +56,38 @@ JOIN tw2 ON tw1.pk_mention = tw2.pk_mention
 UPDATE Mention AS m SET date_permis_modifiee = tw3.date_iso
 FROM tw3 WHERE tw3.pk_mention = m.pk_mention;
 
+
+
+/*
+ * VILLE D'ORIGINE
+ */
+
+SELECT m.ville_origine, vo.nom_ville, pk_ville_origine 
+FROM Mention m 
+   JOIN "Ville origine" vo ON vo.nom_ville = m.ville_origine; 
+
+  
+UPDATE Mention AS m SET fk_ville_origine = vo.pk_ville_origine
+FROM  "Ville origine" vo
+WHERE vo.nom_ville = m.ville_origine;
+
+
+
+/*
+ * METIER
+ */
+
+
+SELECT m.Metier, m2.metier, m2.metier_pk 
+FROM Mention m 
+   LEFT JOIN metier m2 ON TRIM(m2.metier) = TRIM(m.Metier); 
+
+UPDATE Mention AS m SET fk_metier = m2.metier_pk
+FROM  metier m2
+WHERE TRIM(m2.metier) = TRIM(m.Metier);
+
+
+
+
+
+

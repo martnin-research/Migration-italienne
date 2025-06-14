@@ -35,17 +35,18 @@ SELECT *
 FROM v_personne vp; 
 
 WITH tw1 AS (
-SELECT m.pk_personne, m.Famille
+SELECT m.pk_personne, m.Famille, m.fk_metier
 FROM Mention m
 ORDER BY m.date_permis_modifiee
 )
 SELECT vp.pk_personne, vp.person, vp.genre, vp.min_date_permis, vp.max_date_permis, vp.duree, vp.number,
 group_concat(m.Famille, ' | ') famille,
-group_concat(m.Famille, ' | ') famille
+group_concat(m2.metier, ' | ') metiers
 FROM v_personne vp 
-	join tw1 m on m.pk_personne = vp.pk_personne 
+	JOIN tw1 m on m.pk_personne = vp.pk_personne
+	LEFT JOIN metier m2 on m2.metier_pk = m.fk_metier
 GROUP BY vp.pk_personne, vp.person, vp.genre, vp.min_date_permis, vp.max_date_permis, vp.duree, vp.number
-order by vp.pk_personne 
+ORDER BY vp.duree DESC
 
 
 
