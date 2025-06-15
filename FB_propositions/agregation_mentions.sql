@@ -11,9 +11,10 @@
 
 -- regrouper et compter les métiers
 WITH tw1 AS ( 
-SELECT Nom || ' ' || Prenom AS person, "Ville origine" origine
-FROM Mention m)
-SELECT person, count(*) as number, GROUP_CONCAT(origine, ',')
+SELECT Nom || ' ' || Prenom AS person, ville_origine
+FROM Mention m
+ORDER BY date_permis_modifiee)
+SELECT person, count(*) as number, GROUP_CONCAT(ville_origine, ',')
 FROM tw1
 GROUP BY person
 ORDER BY number DESC;
@@ -71,7 +72,7 @@ FROM Mention m
 GROUP BY TRIM(Domicile )
 ORDER BY number DESC;
 
-SELECT 
+SELECT m.pk_personne, p.nom_personne || ' ' || p.prenom_personne AS personne, date_permis_modifiee,
 	CASE 
 		WHEN INSTR(Domicile, '/') > 0 THEN TRIM(SUBSTR(Domicile, 1, INSTR(Domicile, '/')-1)) 
 		ELSE ''	
@@ -82,7 +83,8 @@ SELECT
 	END partie_b,
 INSTR(Domicile, '/') val, TRIM(Domicile) domicile
 FROM Mention m 
-ORDER BY val DESC ;
+	LEFT JOIN Personne p ON p.pk_personne =m.pk_personne 
+ORDER BY m.pk_personne, date_permis_modifiee DESC ;
 
 /*
  * On voit qu'il y a des données à corriger
