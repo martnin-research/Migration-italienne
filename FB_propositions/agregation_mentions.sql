@@ -72,6 +72,8 @@ FROM Mention m
 GROUP BY TRIM(Domicile )
 ORDER BY number DESC;
 
+
+CREATE VIEW v_mention_lieu_domicile AS 
 SELECT m.pk_personne, p.nom_personne || ' ' || p.prenom_personne AS personne, date_permis_modifiee,
 	CASE 
 		WHEN INSTR(Domicile, '/') > 0 THEN TRIM(SUBSTR(Domicile, 1, INSTR(Domicile, '/')-1)) 
@@ -85,6 +87,14 @@ INSTR(Domicile, '/') val, TRIM(Domicile) domicile
 FROM Mention m 
 	LEFT JOIN Personne p ON p.pk_personne =m.pk_personne 
 ORDER BY m.pk_personne, date_permis_modifiee DESC ;
+
+
+SELECT * FROM v_mention_lieu_domicile;
+
+
+
+
+
 
 /*
  * On voit qu'il y a des données à corriger
