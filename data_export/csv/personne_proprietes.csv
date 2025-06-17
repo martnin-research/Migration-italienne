@@ -1,0 +1,349 @@
+"pk_personne","person","genre","min_date_permis","max_date_permis","duree","number","famille","metiers","pays_origine","villes_origine","villes_origine_code"
+21,Tognetti Ulysse,homme,"1848-07-28","1870-06-17",23,7, |  |  |  |  |  | ,maçon | commisionaire | commisionaire | commisionaire | commisionaire | commisionaire | commissionaire,Sardeigne/Pièmont | Italie | Italie | Piémont | Piémont | Piémont | Italie,"Parone,Parone ",Parone
+54,Tognetti Eugène,homme,"1849-09-15","1868-05-16",20,5,- | famille  | famille (Ana Wegmuller) | femme (Anna née Wegmuller) | fille,maçon | maçon | maçon | maçon | maçon,Sardeigne | Italie | Italie | Sardeigne  | Piémont,Parone,Parone
+65,Sacchi Donato,homme,"1849-11-12","1868-03-09",20,6,famille | famille | femme | femme | femme (Emile née Fasoli) | fille,gypseur | gypseur | gypseur | gypseur | metre gypseur | maitre gypseur,Piémont | Sardeigne | Italie | Italie | Sardeigne  | Savoie,Maggiora,Maggiora
+30,Vierin Maurice Joseph,homme,"1848-12-20","1864-01-27",17,5, |  |  |  | ,ramoneur | ramoneur | ramoneur | ramoneur | ramoneur,Italie | Piémont | Sardeigne | Sardeigne | Sardeigne ,Valgrisenche,Valgrisenche
+135,Pecora Charles,homme,"1853-01-25","1869-12-06",17,5," | famille | famille (Allosia Jean Marie) | famille (Astasie neé Jeanmmarie Marie Astasie) | famille (Astasie née Jeanmarie, Marie Astasie)",gypseur | gypseur | gypseur | gypseur cafetier | gypseur cafetier,Piémont  | Italie | Italie | Piémont | Sardeigne ,Varallo,Varallo
+32,Demagistri Joseph,homme,"1849-02-03","1863-06-01",15,2, | famille,gypseur | gypseur,Italie | Sardeigne,Quarona,Quarona
+182,Ravelli Joseph,homme,"1856-12-16","1870-05-12",15,4," | famille (Giuditta Maini, Giuseppe Maria, Giovanni Giacomo, Maria) | famille (Giuditta née Morini, Giuseppe et Goivanni) | famille (Guiditta Maini, Giuseppe Maria)",charpentier | charpentier | charpentier,Sardeigne | Italie | Italie | Sardeigne,Albogno,Albogno
+2,Calzone Henri,homme,"1848-04-17","1861-06-17",14,6, |  |  |  |  | ,gypseur | gypseur | gypseur | gypseur | maitre gypseur | maitre gypseur,Piémont | Piémont | Piémont | Piémont | Piémont | Sardeigne ,"Borgosesia,Arona","Borgosesia,Arona"
+77,Tosetti François Jacques,homme,"1850-06-28","1863-12-14",14,5, | famille | famille | femme (Anne Baibe Mosimann) | femme (Barbe née Mosimann),gypseur | platrier | gypseur | platrier,Sardeigne | Piémont | Piémont | Italie | Sardeigne ,Borgosesia,Borgosesia
+92,Savaglio Dominique Cécile,femme,"1851-05-09","1864-02-16",14,5, |  |  |  | ,négociant | négociante | négociante | négociante | négociante,Italie | Piémont | Piémont | Piémont | Piémont,"Varzo,Vargo","Varzo,Vargo"
+96,Maini Jean Baptiste,homme,"1851-07-19","1864-07-04",14,4," | famille (AnnaMaria Cassina, Jean Baptiste, Paul Jacques) | famille (Anne Marie, Jean, Paul) | fils",maitre gypseur | gypseur | gypseur | gypseur,Piémont | Piémont | Italie | Sardeigne,Albogno,Albogno
+181,Casagrande Joseph Maurice,homme,"1856-12-08","1869-02-13",14,4, |  |  | ,ferblantier | ferblantier | ferblantier | ferblantier,Italie | Italie | Sardeigne | Sardeigne ,Varzo,Varzo
+219,Prebandier Jospeh Légier,homme,"1850-01-18","1863-11-02",14,4, | famille | femme (Adelle Roudin) | fille,ramoneur | ramoneur | ramoneur | ramoneur,Piémont | Sardeigne | Italie | Piémont,Valgrisenche,Valgrisenche
+16,Tognetti Marc Antoine,homme,"1848-07-21","1860-12-31",13,4,famille | famille (Louise Adolfine Jeanneret) | fille | fille,maçon | maçon | maçon | maçon,Sardeigne | Sardeigne  | Sardeigne | Sardeigne,Parone,Parone
+22,Tognetti Numa,homme,"1848-07-28","1860-06-01",13,3," |  | famille (Adele née Sandoz, Camille Albert)",horloger | horloger | remonteur,Piémont | Sardeigne/Pièmont | Sardeigne ,Parone,Parone
+140,Casagrande Jean Antoine,homme,"1853-05-22","1865-06-08",13,5," |  | famille  | famille (Ginetta née Storno, Jean George, Rose Juditte, Joseph Antonio) | femme (Giuditta Storno)",ferblantier | marchand | maitre ferblantier | ferblantier | ferblantier,Piémont | Italie | Italie | Piémont | Piémont,Varzo,Varzo
+303,Maini Francesco,homme,"1857-01-26","1869-10-06",13,2, | ,gypseur | gypseur,Italie | Sardeigne ,Albogno,Albogno
+323,Sironi Francesco,homme,"1853-05-25","1865-08-14",13,4,"famille ( Anna Elisabetta née Gygax, Palmira, Emile Ernesti, Chares Francois, Leone) | famille (Anna Elisabeth) | famille (Anne Elisabette, Gigane, Palmire, Emile Ern.) | fille",daguerrotip (photographe) | photographe | photographe | photographe,Lombardie | Italie | Lombardie | Lombardie,"Albizzate,Albizzate ",Albizzate 
+332,Francescoli Pasquale,homme,"1858-03-15","1870-06-17",13,4," |  |  | famille (Maria Agata Burger, Maria Amanda)",gypseur | gypseur | gypseur | gypseur,Italie | Italie | Sardeigne  | Italie,Ara,
+345,Fatta Giovanni Battista,homme,"1858-07-19","1870-04-19",13,2," | famille (Vittorio, Enrico et Carolina)",manœuvre | doreur de boites,Sardeigne  | Italie,Masserano,Masserano
+50,Fabry Alexis,homme,"1849-08-10","1860-11-28",12,4,famille | famille | femme (Armande née Gonel) | fille,colporteur | colporteur | colporteur | colporteur,Sardeigne | Sardeigne | Sardeigne  | Sardeigne,"Henry,Hezy sur Algine,Héricourt","Henry,Hezy sur Algine,Héricourt"
+153,Viotti Charles,homme,"1855-04-27","1866-11-16",12,4, |  |  | ,gypseur | gypseur | gypseur | gypseur,Italie | Italie | Piémont | Sardeigne ,Rima San Giuseppe,Rima San Giuseppe
+14,Poletti Joseph,homme,"1848-07-21","1858-07-23",11,4, |  |  | famille,gypseur | gypseur | gypseur | gypseur,Piémont | Sardeigne | Sardeigne  | Piémont,Albogno,Albogno
+273,Poletti François,homme,"1857-05-16","1867-06-04",11,3, |  | ,gypseur | gypseur | gypseur,Italie | Italie | Piémont,Albogno,Albogno
+291,Scalabrino Vincenzo,homme,"1858-06-02","1868-07-27",11,3, | famille (Marie née Maresci) | femme (Marie née Moresci),entrepreneur | entrepreneur | entrepreneur de travaux,Italie | Sardeigne  | Sardeigne ,Masserano,Masserano
+146,Michialino Celestin,homme,"1853-10-06","1862-08-25",10,2, | ,ramoneur | app. remonteuse,Italie | Piémont,"Villard Bobbio,Bobbio",Bobbio
+148,Gagneux François,homme,"1854-04-15","1863-05-04",10,3,femme | femme (Juliée née Humbert Droz) | fille,coiffeur | coiffeur | coiffeur,Italie | Savoie | Savoie,"Torino,Annecy","Torino,Annecy"
+160,Terraz Irenée,femme,"1851-06-12","1860-01-10",10,3," | famille (Martine Peroune née Rafael, Marie) | fille",marchand | marchand | marchand,Savoie | Sardeigne  | Savoie,Notre-Dame-du-Pré,Notre-Dame-du-Pré
+174,Tosi Adalgiso Gaudezio,homme,"1856-10-06","1865-02-20",10,3, |  | ,manœuvre | dégrofriseur,Italie | Piémont | Italie,Maggiora,Maggiora
+8,Piccot Denis,homme,"1848-06-14","1856-11-14",9,4, |  | fille | fille,émailleur | émouleur | émouleur | émouleur,Sardeigne | Sardeigne | Savoie | Savoie,Habère-Lullin,Habère-Lullin
+15,Laplace Antoine,homme,"1848-07-21","1856-09-24",9,4, |  |  | fille,graveur | graveur | graveur | graveur,Sardeigne | Savoie | Savoie | Sardeigne,"Archamps,",Archamps
+20,Duret Pierre,homme,"1848-07-28","1856-09-24",9,3, | fille | fille,guillocheur | guillocheur | entrepreneur,Sardeigne | Savoie | Savoie,Habère-Lullin,Habère-Lullin
+85,Dechrevens Jean,homme,"1848-07-28","1856-09-24",9,4, | famille | fille | fille,doreur | doreur | doreur | doreur,Sardeigne | Savoie | Savoie | Savoie,Veigy-Foncenex,Veigy-Foncenex
+114,Bargiga Joseph,homme,"1848-08-10","1856-09-10",9,3,fille | fille | épouse,gypseur | maitre gypseur | gypseur,Piémont | Piémont | Sardeigne,Formaco,
+199,Gioachino Vincenzo,homme,"1862-06-30","1870-08-09",9,3,"famille (?Marianne Celestine, ?? Eliabette Marianne, Angela Berruto) | famille (Elisabetta, Melina, Berta, Paul) | famille (Marianne Gerber, Elisabetta Marian)",cabaretier / terrassier | cabaretier | terrassier,Italie | Italie | Italie,Alpette,Alpette
+228,Tosetti Luigi,homme,"1860-01-19","1868-03-28",9,3,"famille (Antonia Tosetti, Frédéric Jean) | famille (Antonia Tosetti, Frédéric, Jospeh, Joanh) | famille (Antonia Tossetti, Frédéric J, Giuseppe, Pascal, Gianlouis)",cordonnier | cordonnier | cordonnier,Sardeigne  | Italie | Italie,"Ara,Ara Borgosesia",
+245,Gentina Lorenzo,homme,"1861-08-21","1869-09-10",9,3, |  | ,menuisier | menuisier | menuisier,Italie | Italie | Sardeigne ,Cellio,Cellio
+269,Orsolano Michele,homme,"1859-08-15","1867-04-23",9,3, |  | ,gypseur | manœuvre | cordonnier,Italie | Piémont | Italie,Borgosesia,Borgosesia
+272,Graziano Crescentino Grisante Pasquale,homme,"1859-12-31","1867-05-13",9,3,"famille | famille | femille (Teresa née Bioggio, Marie, Rose)",gazier | gazier | gazier,Italie | Italie | Piémont,"Vercelli,Vercelli ",Vercelli
+102,Duret Bernard,homme,"1851-09-23","1858-10-22",8,3, |  | ,colporteur | colporteur | marchand,Savoie | Savoie | Savoie,Habère-Lullin,Habère-Lullin
+104,Sigly David,homme,"1849-10-01","1856-02-25",8,3, |  | ,blanchisseur | blanchisseur | blanchisseur,Sardeigne | Savoie | Savoie,Thonon-les-Bains,Thonon-les-Bains
+112,Berton Louise,femme,"1849-10-12","1856-01-12",8,3,"3 filles | famille | fille",ouvrière | commisionaire | marchand,Sardeigne | Sardeigne | Piémont,Bobbio,Bobbio
+122,Vierin Cassian,homme,"1849-11-26","1856-02-25",8,3, |  | ,app. ramoneur | app. faiseur de secrets | faiseur de secrets,Sardeigne | Piémont | Sardeigne,Valgrisenche,Valgrisenche
+137,Demagistri Jean,homme,"1853-04-11","1860-10-01",8,3, |  | ,gypseur | gypseur | gypseur,Piémont | Piémont | Sardeigne ,Quarona,Quarona
+152,Gavard-Mannoz Pierre François,homme,"1848-08-18","1855-02-23",8,3, | famille | fille,émouleur | émouleur | quincailler,Sardeigne | Savoie | Sardeigne,Viuz-en-Sallaz,Viuz-en-Sallaz
+51,Barel Jean Gratz,homme,"1849-08-10","1855-09-05",7,3, |  | fille,monteur de boites | monteur de boites | monteur de boites,Sardeigne | Sardeigne | Sardeigne,Valgrisenche,Valgrisenche
+82,Francia Etienne,homme,"1850-07-27","1856-09-10",7,3, |  | ,maçon | maçon | maçon,Piémont | Piémont | Sardeigne,"Cimamulara,Cimamulera",Cimamulera
+110,Pastore Jean Baptiste,homme,"1850-02-18","1856-02-02",7,3, | famille | fille,ferblantier | potier d'étain | potier d'étain,Piémont | Piémont | Piémont,Conzano,Conzano
+204,Enrico Giuseppe,homme,"1859-07-04","1865-12-15",7,3, |  | ,manœuvre | manœuvre | manœvre usine à gaz,Italie | Sardeigne  | Italie,Rivarolo,
+233,Mina Pietro,homme,"1861-11-13","1867-01-07",7,3, |  | ,remonteur | remonteur | remonteur,Italie | Italie | Sardeigne ,Borgosesia,Borgosesia
+378,Tirozzi Bernard George,homme,"1860-03-14","1866-12-08",7,3,"famille (?Milami Guy, Carolina, Alberto Luigi) | famille (Melanie née Guy, Caroline Eloidé) | famille (Melanie née Guy, Caroline, Baptiste, Darie, J. A., Albert L. E., Teresa Barberis, Louis) ",négociant | négociant | négociant,Italie | Sardeigne  | Italie,"Trasquera,Domodossola","Trasquera,Domodossola"
+17,Favre Michel Antoine,homme,"1848-07-28","1853-04-30",6,2, | fille | fille,graveur | graveur | graveur,Savoie | Sardeigne | Savoie,"Annemasse,Auvemost","Annemasse,Auvemost"
+173,Meynent Ferdinand,homme,"1851-07-19","1856-10-04",6,2, | ,colporteur | colporteur,Savoie | Savoie,"Habère-Lullin,Rully","Habère-Lullin,Rully"
+359,Manzini Charles,homme,"1856-05-01","1861-02-04",6,4, |  |  | ,gypseur | gypseur | gypseur | gypseur,Piémont | Piémont | Sardeigne  | Sardeigne ,Migiandone,Migiandone
+3,Brasesco Jean,homme,"1848-04-18","1852-12-02",5,2, | ,gypseur | gypseur,Piémont | Sardeigne,Casella,Casella
+10,Allera Martin Antoine,homme,"1848-07-13","1852-07-16",5,2,"2 enfants | deux enfants",ferblantier | chaudronnier,Piémont | Sardeigne,Valprato,
+113,Cucchiani Louis,homme,"1852-04-05","1856-01-15",5,2, | ,boitier | monteur,Isère | Isère,Grénoble,Grénoble
+127,Terraz Isidore,homme,"1852-12-02","1856-12-16",5,2, | ,colporteur | colporteur,Sardeigne | Sardeigne,Notre-Dame-du-Pré,Notre-Dame-du-Pré
+139,Avondo Jacques Joseph,homme,"1853-05-22","1857-06-14",5,2,"famille | famille (Terèse née Borza, Jean Christoph, Jospegine, Caterine Louise)",mercier | mercier,Piémont | Piémont,Serravalle Scrivia,Serravalle Scrivia
+158,Michialino Rose Marie,femme,"1855-11-19","1859-12-14",5,2,"enfants (Jul Paul, Lucien Albert) | fille",horlogère | horlogère,Sardeigne  | Piémont,"Bobbio,Villard Bobbio",Bobbio
+166,Blanchet Jean François,homme,"1856-05-16","1860-04-30",5,2,famille (Claudine Louise Mermier) | fille,tenturier | tenturier,Sardeigne  | Savoie,Aix-les-Bains,Aix-les-Bains
+167,Bidognet Guillaume,homme,"1856-05-27","1860-06-11",5,2, | famille (Julienne Flocchingar),libraire | libraire,Savoie | Sardeigne ,Entremont,Entremont
+184,Zanone Jean,homme,"1856-12-16","1860-02-25",5,2, | ,entrepreneur | manœvre et entrepreneur,Sardeigne  | Piémont,Masserano,Masserano
+203,Graziano Joseph,homme,"1858-12-13","1862-10-30",5,2, | femme (Teresa née Barberis),directeur gazier | contromaitre,Italie | Sardeigne ,Crescentino,Crescentino
+206,Louvois Jean Pantalcon,homme,"1859-01-17","1863-02-09",5,2,"famille (Marie M. Coucheman, Joseph, Charles, Henri) | femme (Marie Marilene)",ramoneur | ramoneur,Italie | Piémont,Valgrisenche,Valgrisenche
+207,Baratto Stefano,homme,"1863-02-16","1867-03-13",5,2,famille | femme (Marie Elise Cuineto),mineur | mineur,Italie | Italie,Traversella,Traversella
+210,Bonaccio Louis Victor,homme,"1863-03-23","1867-05-13",5,2,femme | femme (Therese Virginie),gypseur | gypseur,Italie | Italie,Borgosesia,Borgosesia
+220,Lanfranchi Louis,homme,"1859-07-27","1863-12-08",5,2, | ,menuisier | menuisier,Italie | Piémont,Borgosesia,Borgosesia
+223,Lanfranchi Donato Samuele,homme,"1864-01-21","1868-05-12",5,2, | ,menuisier | menuisier,Italie | Italie,Borgosesia,Borgosesia
+230,Poletti Pierre,homme,"1864-05-20","1868-06-17",5,2, | ,manœuvre | manœuvre,Italie | Italie,"Albogno,Albogno ",Albogno
+240,Cantone Giuseppe,homme,"1865-05-15","1869-05-29",5,2, | ,repasseur | repasseur,Italie | Italie,Borgosesia,Borgosesia
+247,Savaglio Antoine Jean Joseph,homme,"1865-11-20","1869-12-22",5,2,famille | famille (Marie Caroline),app. epicier | cafetier/epicier,Italie | Italie,Varzo,Varzo
+249,Avondo Therese,femme,"1861-09-23","1865-12-31",5,2,famille (née Bovrat veuve de Jacques Jos) | fille (Josephine),mercière | mercière,Piémont | Italie,Serravalle Scrivia,Serravalle Scrivia
+250,Marcellino Giacomo Antonio,homme,"1862-01-27","1866-02-20",5,2, | ,domestique | domestique,Italie | Italie,Pinerolo,Pinerolo
+256,Balocca Giuseppe,homme,"1866-04-07","1870-06-17",5,2, | ,gypseur | gypseur,Italie | Italie,Brusnengo,Brusnengo
+262,Arscone Andrea,homme,"1866-09-03","1870-11-03",5,2,"famille (?Eliabette Marianne, Angela Berruto) | femme (Angela née Berruta)",app. horloger | remonteur,Italie | Italie,Murisengo,Murisengo
+263,Magistrini Bernard,homme,"1866-09-03","1870-11-12",5,2,femme | femme (Luigia),maitre carrier | gazier,Italie | Italie,Maggiora,Maggiora
+294,Lazier Paul Antoine,homme,"1865-01-31","1869-03-21",5,2,"famille (Jeanne Verrade) | famille (Juilie Marianne, Hanniette, etc) ",négociant | marchand d'étoffes,Italie | Italie,Aosta,Aosta
+300,Comaita Giuseppe,homme,"1865-05-29","1869-09-21",5,2, | ,manœuvre | manœuvre,Italie | Italie,Albogno,Albogno
+318,Viotti Pierre,homme,"1857-04-08","1861-05-13",5,2,"famille (Anna Maria neé Bolini) | famille (Anne Marie née Tolini, Roseline)",platrier | platrier,Piémont | Sardeigne ,Rima San Giuseppe,Rima San Giuseppe
+333,Frascotti Gaudenzio,homme,"1858-04-03","1862-05-24",5,2,"famille (Pauline Huguenin, Charle Joseph) | famille (Pauline née Huguenin, Joseph)",gypseur | gypseur,Piémont | Italie,Borgosesia,Borgosesia
+339,Frascotti Carlo,homme,"1858-04-19","1862-05-24",5,2, | ,gypseur | gypseur,Italie | Sardeigne ,Borgosesia,Borgosesia
+376,Gavard-Boiti Jean Gabriel,homme,"1856-02-02","1860-03-07",5,2," | famille (Marie Madelaine Castella, Gabriel Edmond)",émailleur | émailleur,Sardeigne | Sardeigne ,Viuz-en-Sallaz,Viuz-en-Sallaz
+402,Frascotti Amadeo,homme,"1858-04-19","1862-05-24",5,2, | ,gypseur | gypseur,Italie | Sardeigne ,Borgosesia,Borgosesia
+5,Manzini Jean Baptiste,homme,"1848-01-18","1851-05-29",4,4, |  |  | famille,menuisier | menuisier | menuisier | menuisier,Piémont | Piémont | Sardeigne  | Piémont,Cavandone,Cavandone
+44,Passeraz Jean Jacques,homme,"1849-04-12","1852-01-20",4,2, | ,monteur de boites | boitier,Sardeigne | Sardeigne,Taninges,Taninges
+74,Manzini Giovanni Battista,homme,"1852-10-02","1855-04-17",4,2, | ,charpentier | charpentier,Piémont | Piémont,Cavandone,Cavandone
+97,Ducrot Jean François,homme,"1849-08-10","1852-11-24",4,3, | famille | fille,émailleur | émailleur | colporteur,Sardeigne | Savoie | Savoie,"Habère-Poche,Albert Pot.",Habère-Poche
+116,Thomé Jacqueline,femme,"1852-09-02","1855-11-07",4,2, | ,servante | servante,Savoie | Savoie,"Gaillard,Gaillard ",Gaillard 
+125,Chedal François,homme,"1852-11-06","1855-12-18",4,2, | ,horloger | horloger remonteur,Savoie | Sardeigne,Habère-Lullin,Habère-Lullin
+130,Machon Josephette,femme,"1853-01-18","1856-04-16",4,2, | ,servante | servante,Sardeigne | Savoie,Saint-Cergues,Saint-Cergues
+156,Terraz Alexis,homme,"1855-09-24","1858-11-29",4,2, | ,colporteur | colporteur,Sardeigne  | Savoie,Notre-Dame-du-Pré,Notre-Dame-du-Pré
+1,Sartorio Charles,homme,"1848-04-17","1850-07-09",3,2, | ,gypseur | gypseur,Piémont | Sardeigne,Drecio,
+25,Battistilo Carlo Giuseppe,homme,"1848-09-05","1850-09-06",3,2, | ,gypseur | gypseur,Sardeigne | Sardeigne ,"Jeresto,Foresto","Jeresto,Foresto"
+43,Magistrini Jean Dominique,homme,"1849-04-05","1851-12-20",3,2, | ,gypseur | gypseur,Piémont | Piémont,Maggiora,Maggiora
+58,Arnotti Jean,homme,"1849-10-22","1851-07-28",3,2, | famille,gypseur | gypseur,Piémont | Sardeigne,Alagna,Alagna
+205,Michialino Lucien Alberto,homme,"1862-12-16","1864-02-03",3,2, | ,graveur | graveur,Italie | Italie,Villard Bobbio,
+260,Storno Louis,homme,"1866-07-09","1868-03-16",3,2, | ,négociant | marchand,Italie | Italie,Varzo,Varzo
+38,Masoni Giovanni,homme,"1849-04-03","1850-07-09",2,2, | ,gypseur | gypseur,Sardeigne | Sardeigne,Arola,Arola
+61,Rovari Bartolomeo,homme,"1848-09-21","1849-11-12",2,2, | famille,horloger | horloger,Empire d'Autriche | Lombardie,"Clusone,Bondione",Clusone
+45,Decroux Jean Nicolas,homme,"1849-04-18","1849-12-14",1,2, | ,horloger | bijoutier,Sardeigne | Sardeigne,Nangy,Nangy
+4,Maniglieri Emérence,homme,"1848-04-28","",0,1,"",ouvrier,Savoie,Bluses,Bluses
+6,Bally Fauchette,femme,"1848-05-12","",0,1,"",servante,Savoie,Cluses,Cluses
+7,Falda Eusebe,homme,"1848-05-12","",0,1,"",gypseur,Piémont,Sostegno,Sostegno
+9,Ramel Emile,homme,"1848-07-12","",0,1,"",app. couvreur,Sardeigne,Feningue,Feningue
+11,Caracetto Jean,homme,"1848-07-13","",0,1,"",gypseur,Sardeigne,Sostegno,Sostegno
+12,Fossetti Jacques Francois,homme,"1848-07-20","",0,1,"",gypseur,Piémont,Borgosesia,Borgosesia
+13,Arbeglia Pierre,homme,"1848-07-21","",0,1,"",gypseur,Sardeigne,Rimasco,Rimasco
+19,Chevalier Joseph,homme,"1848-07-28","",0,1,fille,fabricant de glace,Sardeigne,Évires,Évires
+27,Gayetti Pietro,homme,"1848-09-25","",0,1,"",gypseur,Piémont,Borgosesia,Borgosesia
+28,Gras Emilie,femme,"1848-10-14","",0,1,"",tailleuse,Savoie,Challonges,Challonges
+29,Goy Victor,homme,"1848-11-23","",0,1,"",monteur de boites,Sardeigne,Cranves Sales,Cranves Sales
+31,Perget Louise,femme,"1849-02-03","",0,1,"",tailleuse,Sardeigne,Ville-la-Grand,Ville-la-Grand
+33,Vuattoux Joseph,homme,"1849-02-03","",0,1,"",émouleur,Sardeigne,Habère-Lullin,Habère-Lullin
+34,Magnetti Francois Caroline,femme,"1849-02-21","",0,1,"",servante,Piémont,Rimasco,Rimasco
+35,Limito Giosué,homme,"1849-03-14","",0,1,"",négociant,Empire d'Autriche,Milano,Milano
+36,Cacciamonguaga Giacomo,homme,"1849-03-24","",0,1,"",tailleur,Empire d'Autriche,Monza,Monza
+37,Masoni Bartolomeo,homme,"1849-04-03","",0,2, | ,gypseur | gypseur,Sardeigne | Sardeigne,Arola,Arola
+39,Masoni Giuseppe,homme,"1849-04-03","",0,1,"",gypseur,Sardeigne,Arola,Arola
+40,Begiorgi Carlo,homme,"1849-04-03","",0,1,"",gypseur,Sardeigne,Rimasco,Rimasco
+41,Viani Giovanni Antonio,homme,"1849-04-03","",0,1,"",gypseur,Sardeigne,Brocioletta,Brocioletta
+42,Fapponier Jacques,homme,"1849-04-03","",0,1,"",monteur de boites,Sardeigne,Beaumont,Beaumont
+46,Bogino Lorenzo,homme,"1849-04-26","",0,1,"",gypseur,Piémont,Sostegno,Sostegno
+48,Favre Charles Joseph,homme,"1849-07-16","",0,1,"",graveur,Savoie,Pralognan-la-Vanoise,Pralognan-la-Vanoise
+52,Tosetti Jacques François,homme,"1849-08-12","",0,1,"",horloger,Sardeigne,Borgosesia,Borgosesia
+53,Magni Jean Baptiste,homme,"1849-08-23","",0,1,"",gypseur,Sardeigne,Albogno,Albogno
+57,Gross Emilie,femme,"1849-10-22","",0,1,"",app. tailleuse,Savoie,Challonges,Challonges
+59,Bonzoni Ange-Marie,femme,"1849-10-22","",0,1,"",ramoneur,Sardeigne,Valgrisenche,Valgrisenche
+60,Michialino Rose Marie veuve,femme,"1849-10-22","",0,1,"",,Sardeigne,Bobbio,Bobbio
+62,Deschanifs Jacques Antoine,homme,"1849-11-12","",0,1,"",ramoneur,Sardeigne,Notre-Dame-du-Pré,Notre-Dame-du-Pré
+63,Paget Louise,femme,"1849-11-12","",0,1,"",tailleuse,Sardeigne,Ville-la-Grand,Ville-la-Grand
+64,Savaglio Dominique Marie,femme,"1849-11-12","",0,1,"",marchande,Sardeigne,Varzo,Varzo
+67,Louvois Giovanni Taulalone,homme,"1849-11-26","",0,1,"",ramoneur,Sardeigne,Valgrisenche,Valgrisenche
+70,Turlo Pierre Marie,homme,"1849-12-22","",0,1,"",gypseur,Sardeigne,Grignasco,Grignasco
+73,Magni Francesco,homme,"1850-03-28","",0,1,"",gypseur,Sardeigne,Albogno,Albogno
+75,Mazetti Giuseppe,homme,"1850-06-27","",0,1,"",serrurier,Sardeigne,Ossola,
+76,Bourtmes Johann,homme,"1850-06-27","",0,1,"",menuisier,Sardeigne,Marpod,Marpod
+80,Jurico Alberto,homme,"1850-07-09","",0,1,"",gypseur,Sardeigne,Masserano,Masserano
+81,Maini Giacomo,homme,"1850-07-09","",0,1,"",gypseur,Sardeigne,Asola,Asola
+83,Schoend Jacques,homme,"1850-07-29","",0,1,"",mecanicien,Savoie,Héricourt,Héricourt
+86,Molino Joseph,homme,"1850-09-06","",0,1,"",gypseur,Piémont ,Campertogno,Campertogno
+87,Bargiga Antonio,homme,"1850-09-06","",0,1,"",gypseur,Piémont,Formaco,
+89,Cappelaro Giovanni,homme,"1850-09-06","",0,1,"",gypseur,Sardeigne,Borgosesia,Borgosesia
+90,Michialino Jules-Paul,homme,"1850-09-26","",0,1,"",,Piémont,Villard Bobbio,
+93,Chevalier François Felix,homme,"1851-05-29","",0,1,"",horloger,Savoie,Évires,Évires
+100,Thorens Etiennette,femme,"1851-08-23","",0,1,"",app. doreuse,Savoie,Loisin,Loisin
+105,Gaillepand Josephine,femme,"1851-09-29","",0,1,"",finisseuse de boites,Savoie,Bogève,Bogève
+106,Mejuet Alphonse,homme,"1851-10-08","",0,1,"",colporteur,Savoie,Habère-Lullin,Habère-Lullin
+107,Fournier Valentin,homme,"1851-10-13","",0,1,"",colporteur,Savoie,Habère-Lullin,Habère-Lullin
+108,Frossard Claude,homme,"1851-10-14","",0,1,épouse,colporteur,Savoie,Habère-Lullin,Habère-Lullin
+109,Michialino Rosine Marie,femme,"1851-11-03","",0,1,"",horlogère,Piémont,Villard Bobbio,
+111,Ducrot Jean Nicolas,homme,"1851-12-20","",0,1,"",bijoutier,Savoie,Nangy,Nangy
+118,Pagnotti Marc Antoine,homme,"1852-09-02","",0,1,fille,maçon,Sardeigne,Pavero,Pavero
+119,Pertiset Marie,femme,"1852-09-03","",0,1,"",servante,Savoie,Lugrin,Lugrin
+120,Coltet Marie,femme,"1852-09-08","",0,1,"",serrurier,Savoie,Annecy,Annecy
+121,Dupont Jean Louis,homme,"1852-09-23","",0,1,"",fabricant de secrets,Savoie,Gaillard,
+123,Pirozzi Jean Baptiste,homme,"1852-10-25","",0,1,"",mod. porcel,Piémont,Hargueva,Hargueva
+124,Degeneve Joseph Léopold,homme,"1852-10-25","",0,1,"",marchand,Savoie,Habère-Lullin,Habère-Lullin
+126,Garello Aime,homme,"1852-11-18","",0,1,fille,tailleuse,Sardeigne,Saint-Russo,Saint-Russo
+128,Hudry Josepp,homme,"1852-12-08","",0,1,"",guillocheur,Sardeigne,,
+129,Bosson Auguste,homme,"1853-01-01","",0,1,"",app. fabricant parapluie,Sardeigne,Agrion,
+132,Ridoguet Guillaume,homme,"1853-02-01","",0,1,"",commisionaire voyageur,Savoie,Entremont,Entremont
+133,Laplace Charles,homme,"1853-01-24","",0,1,"",boitier,Savoie,,
+134,Ravelli Pierre Jacques,homme,"1853-01-24","",0,1,"",gypseur,Piémont,Albogno,Albogno
+136,Morganti Joseph,homme,"1853-04-06","",0,1,"",gypseur,Piémont ,Migiandone,Migiandone
+138,Piova Guadeuzio,homme,"1853-04-21","",0,1,"",gypseur,Piémont,Borgosesia,Borgosesia
+142,Veyrat Jacques Marie,homme,"1853-07-28","",0,1,"",boitier,Sardeigne,Neydens,Neydens
+143,Anthoine Joachim,homme,"1853-09-21","",0,1,"",fournalier,Savoie,Mayland,Mayland
+144,Cottet-Dumachin Daniel,homme,"1853-09-30","",0,1,"",pierriste,Savoie,Saint-Jean-d'Aulps,Saint-Jean-d'Aulps
+145,Michialino Louise-Caroline,homme,"1853-10-06","",0,1,"",remonteuse,Piémont,Villard Bobbio,
+147,Favret Pierre,homme,"1853-12-10","",0,1,"",colporteur,Sardeigne,,
+149,Crejone François,homme,"1854-11-25","",0,1,"",fabricant casquette,Piémont,Montescheno,Montescheno
+150,Novelli Joseph Antoine,homme,"1854-11-27","",0,1,fille,horloger,Piémont,Borgosesia,Borgosesia
+151,Levi Salvatore,homme,"1854-12-23","",0,1,"",négociant,Piémont,Vercelli,Vercelli
+154,Trouillet Gabriel,homme,"1855-07-24","",0,1,fille,boitier,Isère,Grénoble,Grénoble
+159,Gavard Maurice,homme,"1855-12-18","",0,1,"",pierriste,Sardeigne,Noége,Noége
+162,Tirozzi Jean Baptiste,homme,"1856-04-03","",0,1,filles,marchand de porcelaine,Piémont,Trasquera,Trasquera
+164,Dresco Joseph,homme,"1856-04-16","",0,1,"",ferblantier,Piémont,Varzo,Varzo
+168,Dellavedova Pierre,homme,"1856-08-11","",0,1,"",remonteur repateur,Sardeigne,Carcoforo,Carcoforo
+169,Praz Maurice Joseph,homme,"1856-09-06","",0,1,"",ramoneur,Sardeigne,Arvier,Arvier
+170,Bargiga Charles Antoine,homme,"1856-09-16","",0,1,"",vernisseur,Piémont,Formaco,
+171,Fontana Charles,homme,"1856-09-16","",0,1,"",gypseur,Sardeigne,Rossa,Rossa
+172,Sacchi Françoise,homme,"1856-09-24","",0,1,"",,Piémont,Maggiora,Maggiora
+175,Brimiard Joseph,homme,"1856-10-09","",0,1,"",colporteur,Savoie,Seytroux,Seytroux
+176,Clendal Joseph,homme,"1856-10-28","",0,1,"",émouleur,Savoie,Habère-Lullin,Habère-Lullin
+177,Thorens Marie,femme,"1856-11-11","",0,1,"",servante,Sardeigne,,
+178,Degeneve François,homme,"1856-11-14","",0,1,fille,colporteur,Savoie,Habère-Lullin,Habère-Lullin
+179,Rivoire Anne,femme,"1856-11-20","",0,1,"",fille de magasin,Sardeigne,Vigevano,Vigevano
+180,Seve Charles,homme,"1856-12-08","",0,1,"",coiffeur,Savoie,,
+183,Pagani Jean Antoine,homme,"1856-12-16","",0,1,"",marechal,Sardeigne,Neydens,Neydens
+185,Lanfranchi Costantin,homme,"1857-01-12","",0,1,"",poseur,Sardeigne ,Borgosesia,Borgosesia
+186,Merlo Ernest,homme,"1857-01-12","",0,1,"",commisionaire,Lombardie ,Milano,Milano
+187,Brachet Marie,femme,"1857-01-12","",0,1,"",servante,Sardeigne ,Esserts,
+188,Piccot Clémence,homme,"1857-01-12","",0,1,"",polisseur d'aciers,Sardeigne ,Habère-Lullin,Habère-Lullin
+189,Moruzzi Joseph,homme,"1857-01-12","",0,1,"",remonteur,Sardeigne ,Garlasco,Garlasco
+190,Cheval Jean Louis,homme,"1857-01-19","",0,1,"",colporteur,Savoie,Habère-Lullin,Habère-Lullin
+191,Dbiolles François,homme,"1857-01-22","",0,1,"",graveur,Savoie,Chambéry,Chambéry
+192,Giguet Luc Philippe,homme,"1857-01-22","",0,1,"",fabricant de vis,Savoie,Magliano Alpi,Magliano Alpi
+193,Mina Vincent,homme,"1857-01-22","",0,1,"",app. horloger,Piémont,Borgosesia,Borgosesia
+194,Degeneve Louis Eugène,homme,"1857-01-22","",0,1,"",manœuvre,Savoie,Habère-Lullin,Habère-Lullin
+196,Mattei Giovanni,homme,"1857-01-26","",0,1,"",gypseur,Sardeigne ,Albogno,Albogno
+197,Sacchi Justin,homme,"1857-01-26","",0,1,"",remonteur,Sardeigne ,Novara,Novara
+198,Moruzzi Guadenzio,homme,"1857-02-10","",0,1,"",app. remonteur,Sardeigne ,Garlasco,Garlasco
+209,Lombardi Pasquale Carlo,homme,"1863-03-03","",0,1,"",vitrier,Italie,Domodossola ,
+211,Giobbe Battista,homme,"1863-04-08","",0,1,enfant (Eugène),gypseur,Italie,Rima San Giuseppe,Rima San Giuseppe
+217,Giani Paolo Antonio,homme,"1863-09-21","",0,1,"",maçon,Italie,Viconago-Cadegliano,Viconago-Cadegliano
+218,Fraglio Giacomo,homme,"1863-09-23","",0,1,"",gypseur,Italie,Borgosesia,Borgosesia
+222,Grezzi Gianni,homme,"1864-01-27","",0,1,"",ferblantier,Italie,Varzo,Varzo
+224,Grezzi Joseph,homme,"1864-01-27","",0,1,femme (Filippina Valdo),ferblantier,Italie,Varzo,Varzo
+226,Berton Elise,femme,"1864-02-04","",0,1,"",maitresse de pension,Italie,Bobbio,Bobbio
+229,Baima-Pomer Antoine,homme,"1864-04-01","",0,1,famille,colporteur,Italie,"",
+231,Delpedro Hyacinthe,homme,"1864-05-20","",0,1,"",vitrier,Italie,Trasquera,Trasquera
+232,Nicolaj Gioacchino,homme,"1864-07-04","",0,1,"",app. gypseur,Italie,Prestinari Osola,Prestinari Osola
+234,Nino Giuseppe,homme,"1864-07-30","",0,1,"",serrurier,Italie,Albogno,Albogno
+235,Castelli Gianni,homme,"1864-11-21","",0,1,"",ferblantier,Italie,Varzo,Varzo
+239,Baratto Jaqueo,homme,"1865-03-20","",0,1,famille (Julie Eline),mineur,Italie,Traversella,Traversella
+242,Gatti Natale,homme,"1865-05-29","",0,1,"",ferblantier,Italie,Varzo,Varzo
+246,Bianchi Giovanni,homme,"1865-10-30","",0,1,"",manœuvre,Italie,Ronago,Ronago
+248,Naula Pierre,homme,"1865-11-29","",0,1,famille (Clausine Armand),gypseur,Italie,Vintebbio,Vintebbio
+251,Sala Giulio,homme,"1866-04-16","",0,1,"",maçon,Italie,Varzo,Varzo
+252,Gilardetti Giorgio,homme,"1866-04-16","",0,1,"",colporteur,Italie,Varzo,Varzo
+254,Qaramello Arcangelo,homme,"1866-04-30","",0,1,"",cordonnier,Italie,Quarna Sopra ,Quarna Sopra 
+257,Bonardi Lorenzo,homme,"1866-05-07","",0,1,"",maitre gypseur,Italie,Cossato,Cossato
+258,Lanfranchi Gianbattista,homme,"1866-05-29","",0,1,"",gypseur menuisier,Italie,Borgosesia,Borgosesia
+259,Maralla Cesare,homme,"1866-07-02","",0,1,"",repasseur,Italie,Prato Sesia,Prato Sesia
+261,Roberti Michel Ange,homme,"1866-07-09","",0,1,femme,marchand d'étoffes,Italie,Cellio,Cellio
+264,Batazzi Joseph Martin,homme,"1866-09-03","",0,1,"",secreto ?,Italie,Suna,Suna
+265,Ferraris Costantino,homme,"1866-10-25","",0,1,"",colporteur,Italie,Varzo,Varzo
+267,Graziano Teresa,femme,"1866-12-21","",0,1,famille ?,,Italie,Vercelli,Vercelli
+268,Castelli Pietro,homme,"1867-02-18","",0,1,"",colporteur,Italie,Varzo,Varzo
+270,Stoffani Antonio,homme,"1867-04-27","",0,1,"",gypseur,Italie,Fara,
+271,Sola Alessandro,homme,"1867-05-13","",0,1,"",gypseur,Italie,Ara,
+274,Volpini Alessandro,homme,"1867-06-08","",0,1,"",app. horloger,Italie,Cortemaggiore,Cortemaggiore
+275,Storno Gabriele Georges,homme,"1867-07-15","",0,1,"",négociant,Italie,Varzo,Varzo
+276,Tosalli Giovanni,homme,"1867-07-22","",0,1,"",cordonnier,Italie,Ara,
+277,Antonietti Giovanni,homme,"1867-08-05","",0,1,"",gypseur,Italie,Morca,Morca
+278,Antonietti Giuseppe,homme,"1867-08-05","",0,1,"",gypseur,Italie,Morca,Morca
+279,Taroni Gaetano,homme,"1867-09-25","",0,1,"",menuisier,Italie,Curate,Curate
+280,Comola Pasquale,homme,"1867-12-07","",0,1,famille,chiffonnier,Italie,Soriso,Soriso
+281,Sacchi Gistiniano,homme,"1867-12-16","",0,1,"famille (Marianne, Laura, Isabella) ",maitre gypseur,Italie,Maggiora,Maggiora
+282,Bozon Angelo Maria,homme,"1867-12-16","",0,1,"",ramoneur,Italie,Valgrisenche,Valgrisenche
+283,Zenone Giovanni,homme,"1868-04-05","",0,1,"",ferblantier colporteur,Italie,Varallo,Varallo
+284,Grezzi Giuseppe Giorgio,homme,"1868-05-05","",0,1,femme (Filippina Valdo),maitre ferblantier,Italie,Varzo,Varzo
+285,Berton Caroline,femme,"1868-04-08","",0,1,"",menagère de pension,Italie,Bobbio,Bobbio
+286,Salina Anselmo,homme,"1868-02-15","",0,1,"",ferblantier colporteur,Italie,Varzo,Varzo
+287,Lorenzone Agostino,homme,"1868-03-09","",0,1,"",ferblantier colporteur,Italie,Varzo,Varzo
+289,Agnesetta Giovanni,homme,"1868-03-16","",0,1,"",ferblantier colporteur,Italie,Varzo,Varzo
+293,Ferrero Secondo Giuseppe,homme,"1868-10-12","",0,1,femme (Bertha née Froidevaux),coiffeur,Italie,Asti,Asti
+295,Franchetti Francesco,homme,"1869-04-23","",0,1,"",maçon,Italie,Curiglia ,Curiglia 
+296,Naula Francesco,homme,"1869-07-05","",0,1,"",maitre gypseur,Italie,Vintebbio,Vintebbio
+297,Tognetti Adolphine (veuve de Marc Antoine),femme,"1869-07-06","",0,1,"",menagère,Italie,Parone,Parone
+298,Novelli Giuseppe Antonio,homme,"1869-07-28","",0,1,"famille (Adelaide, Mario, Giuseppe, etc)",remonteur,Italie,Borgosesia,Borgosesia
+299,Casasco Gaetano Serafino,homme,"1869-10-08","",0,1,famille (Maria Giovanni),professeur de musique,Italie,Garlasco,Garlasco
+301,Sironi Anna Elisabette (veuve de Francois),femme,"1869-09-28","",0,1,enfants (5),adoneisseuse ?,Italie,Albizzate,
+302,Peroni Giovanni,homme,"1869-10-02","",0,1,"",menuisier,Italie,Maggiora,Maggiora
+304,Lazzarini Domenico,homme,"1870-03-12","",0,1,"",maitre maçon,Italie,Mesenzana,Mesenzana
+305,Barratto Julie,femme,"1870-04-06","",0,1,enfant (Pierre),garde malade,Italie,,
+306,Costanzo Alexandre Nicolas,homme,"1848-01-08","",0,1,famille,horloger,Royaume des deux Siciles ,,
+308,Vandaux Marie Aime,homme,"1848-01-22","",0,1,"",bijoutier,Sardeigne ,Thonon-les-Bains,Thonon-les-Bains
+309,Ravier Pierre Francois Eugène,homme,"1848-01-26","",0,1,"",marchand,Sardeigne ,Habère-Lullin,Habère-Lullin
+310,Deneriez Paul Joseph,homme,"1848-01-13","",0,1,"",horloger,Sardeigne ,Cluses,Cluses
+311,Mognetti Francois Caroline,homme,"1848-02-02","",0,1,"",monteur de boites,Sardeigne ,Rimasco,Rimasco
+312,Gavard Pivet Justine,femme,"1848-02-18","",0,1,marié Joseph Augustin Falbriard,surnalière,Sardeigne ,Vienne,Vienne
+313,Chapuis Marie,femme,"1857-02-28","",0,1,"",doreuse,Savoie,Ruelle-Vergy,Ruelle-Vergy
+314,Chatenond François,homme,"1857-02-28","",0,1,"",app. boitier,Savoie,"",
+315,Guy Leon,homme,"1857-02-28","",0,1,"",commisionaire,Piémont,Bonneville,Bonneville
+316,Antonioli Jean,homme,"1857-04-06","",0,1,"",menuisier,Piémont,"",
+317,Tosetti Giorgio,homme,"1857-04-06","",0,1,"",app. gypseur,Piémont,Borgosesia,Borgosesia
+319,Piccot Francois,homme,"1857-04-20","",0,1,"",manœuvre,Savoie,Habère-Lullin,Habère-Lullin
+320,Senapa Louise,femme,"1857-04-06","",0,1,"",brunisseuse,,Roma,Roma
+321,Band Berthie Louise,femme,"1857-04-30","",0,1,deux enfants,lingère,Savoie,Viuz-en-Sallaz,Viuz-en-Sallaz
+322,Marechal Jean Claude,homme,"1857-06-02","",0,1,"famille (Anna née Grillod, Antonietta)",fumiste,Savoie,Gray,Gray
+324,Boggio Paolo,homme,"1857-06-14","",0,1,"",gypseur,Piémont,Crasso,Crasso
+325,Beretta Giovanni,homme,"1857-06-14","",0,1,"",manœuvre,Sardeigne ,Brusnengo,Brusnengo
+326,Grieshaber Giuseppe,homme,"1857-06-14","",0,1,"famille (Caroline née Daverio, Octavie Adele)",horloger,Lombardie ,Milano,Milano
+327,Lanier Marie fils de Josephine,homme,"1867-11-23","",0,1,"",doreur,Sardeigne ,Juvigny,Juvigny
+328,Cheval Celestine,femme,"1857-12-17","",0,1,"",doreuse,Savoie,Habère-Lullin,Habère-Lullin
+329,Besson Pierre Joseph,homme,"1857-12-21","",0,1,"",aiguilleur,Sardeigne ,,
+330,Minoggio Joseph André,homme,"1858-02-01","",0,1,"",fumiste,Sardeigne ,Vocogno,
+334,Minoggio Jean André,homme,"1858-04-12","",0,1,"famille (Jean Marie, Alphonse)",fumiste,Sardeigne ,Buttogno,Buttogno
+336,Iocco Giovanni,homme,"1858-04-19","",0,1,"",treittageur,Sardeigne ,,
+337,Stellino Agostino,homme,"1858-04-19","",0,1,"",treittageur,Sardeigne ,,
+338,Masoni Barthelemy,homme,"1858-04-19","",0,1,"",gypseur,Piémont,Arola,Arola
+340,Bruno Jean,homme,"1858-05-03","",0,1,"",gypseur,Piémont,Cellio,Cellio
+341,Chedal Jean,homme,"1858-05-24","",0,1,"",colporteur,Sardeigne ,Lillon,Lillon
+342,Moro Antonio Andrea,homme,"1858-05-09","",0,1,"",app. boitier,Sardeigne ,Domodossola,Domodossola
+343,Duchene Hilaire,homme,"1858-06-17","",0,1,"",coiffeur,Savoie,Annecy,Annecy
+344,Piccot Germain,homme,"1858-06-17","",0,1,"",négociante,Savoie ,Habère-Lullin,Habère-Lullin
+346,Dresco Eugenio,homme,"1858-07-23","",0,1,"",maitre ferblantier,Sardeigne ,,
+347,Delpedro Gio Battista,homme,"1858-07-23","",0,1,"",ferblantier,Sardeigne ,"",
+348,Gavard-Monad Marie Francoise,homme,"1858-07-23","",0,1,"",app. faiseur d'aiguille,Sardeigne ,Viuz-en-Sallaz,Viuz-en-Sallaz
+349,Donche Gay Michel,homme,"1858-07-23","",0,1,"",,Savoie,S.André,
+350,Pastore Charles Bernard,homme,"1858-08-23","",0,1,"famille (marie Appoline, Charle Albert)",serrurier,Piémont,Gozzano,Gozzano
+351,Scaroguina Giovanni Battiste,homme,"1858-08-28","",0,1,"",gypseur,Piémont,Festegno,
+352,Tagand Francois,homme,"1858-09-06","",0,1,"",app. graveur,Savoie,Vadans,Vadans
+353,Bonhomme Marie,femme,"1858-09-06","",0,1,"",modiste,Savoie,Annency,
+354,Borra Clement,homme,"1858-10-11","",0,1,"",platrier,Sardeigne ,Varzo,Varzo
+355,Piccot Isedore,homme,"1858-11-08","",0,1,"",colporteur,Savoie,Habère-Lullin,Habère-Lullin
+357,Chedal Celestine,femme,"1859-01-10","",0,1,"",greneuse,Sardeigne ,Habère-Lullin,Habère-Lullin
+360,Traglio Jean Battista,homme,"1859-05-16","",0,1,"",gypseur,Sardeigne ,,
+361,Zanoletti Battista,homme,"1859-05-16","",0,1,"",gypseur,Sardeigne ,"",
+362,Berthet Joseph,homme,"1859-07-04","",0,1,"",manœuvre,Sardeigne ,Rima San Giuseppe,Rima San Giuseppe
+364,Veillet Agathe,homme,"1859-08-25","",0,1,"",app. oliseur de boite?,Sardeigne ,Habère-Lullin,Habère-Lullin
+365,Cariffa Pietro Antonio,homme,"1859-09-12","",0,1,"famille (Mélanie née Tissot, Piero Antonio)",marchand,Sardeigne ,,
+366,Laplace Alexandre,homme,"1859-10-03","",0,1,"",app. graveur,Savoie,,
+367,Tosetti François Jacques,homme,"1868-02-15","",0,1,femme (Anne Baube Mosiman),gypseur,Italie,Borgosesia,Borgosesia
+368,Borel Jean Grax,homme,"1859-10-22","",0,1,"famille (Catherine née Bonele, Marie Pauline, Adele Emma)",boitier,Sardeigne ,Valgrisenche,Valgrisenche
+369,Donche Gay Clemance,femme,"1859-12-14","",0,1,"",doreuse,Sardeigne ,,
+370,Palais François Joseph,homme,"1859-12-31","",0,1,"",ramoneur,Sardeigne ,,
+371,Tosetti Georges,homme,"1860-01-16","",0,1,"",platrier,Sardeigne ,Borgosesia,Borgosesia
+373,Praz Suplice Victor,homme,"1860-01-24","",0,1,"",ramoneur,Sardeigne ,Arvier,Arvier
+374,Berton Elise Caroline,femme,"1860-01-24","",0,1,"",maitresse de pension,Sardeigne ,Bobbio,Bobbio
+375,Bossoney Michel,homme,"1860-01-17","",0,1,"",faiseur de secrets,Savoie,Chamonix-Mont-Blanc,Chamonix-Mont-Blanc
+377,Megavand Francois,homme,"1860-03-12","",0,1,femmen(Jeanne Franc. née Borel),bijoutier,Sardeigne ,Archamps,Archamps
+379,Michialino Jules Paul,homme,"1860-03-28","",0,1,"",app. graveur,Sardeigne ,,
+380,Negretti Etienne,homme,"1860-04-23","",0,1,"",app. gypseur,Sardeigne ,Chambéry,Chambéry
+381,Berton Zeline Marie,femme,"1860-01-24","",0,1,"",maitresse de pension,Sardeigne ,Bobbio,Bobbio
+382,China Joseph,homme,"1860-04-23","",0,1,"",manœuvre,Sardeigne ,Masserano,Masserano
+384,Vinzio Joseph,homme,"1860-04-07","",0,1,"",app. gypseur,Sardeigne ,Grignasco,Grignasco
+385,Mina César,homme,"1860-04-07","",0,1,"",app. gypseur,Sardeigne ,,
+386,Travi Jean Antoine,homme,"1860-04-07","",0,1,"",app. cuisinier,Sardeigne ,Genes,
+387,Marolla Carlo,homme,"1860-05-31","",0,1,"",app. remonteur,Sardeigne ,Prato Sesia,Prato Sesia
+389,Delpedro Louis,homme,"1860-07-02","",0,1,"",vitrier,Sardeigne ,Trasquera,Trasquera
+391,Magnetti Marie Elisabeth,homme,"1860-09-11","",0,1,"",servante,Sardeigne ,Rimasco,Rimasco
+392,Graziano Luigi,homme,"1860-10-08","",0,1,"",appareilleur,Sardeigne ,Crescentino,Crescentino
+393,Bozon Michel,homme,"1860-12-31","",0,1,"",manœuvre,Sardeigne ,Valgrisenche,Valgrisenche
+394,Berotte Jaques,homme,"1861-06-11","",0,1,femme,mineur,Piémont,Traversella,Traversella
+397,Demagistri Louis Joseph,homme,"1861-10-10","",0,1,"",app. repasseur,Sardeigne ,,
+398,Avondo Jean Christophe,homme,"1861-12-02","",0,1,famille (Margherita Albertini),photographe,Piémont,Serravalle Scrivia,Serravalle Scrivia
+401,Ravelli Giacomo,homme,"1862-04-07","",0,1,"",gypseur,Italie,Albogno,Albogno
+404,Manzini Carlo,homme,"1853-02-01","",0,1,"",horloger,Sardeigne,Migiandone,Migiandone
+406,Masoni Giovanni,homme,"1860-06-11","",0,1,"",gypseur,Sardeigne ,,
+407,Giordano Giuseppe,homme,"1870-04-16","",0,1,"",cordonnier,Italie,Curino,Curino
+408,Peruccio Giovanni,homme,"1870-04-16","",0,1,enfant (Giuseppe),cordonnier,Italie,Curino ,
+409,Calderini Paolo,homme,"1870-04-20","",0,1,"",gypseur,Italie,Borgosesia,Borgosesia
+410,Grezzi Giovanni,homme,"1870-05-25","",0,1,"",colporteur,Italie,Varzo,Varzo
+411,Passoni Faustino,homme,"1870-05-25","",0,1,"",entrepreneur de travaux,Italie,,
+412,Giordano Carlo,homme,"1870-05-27","",0,1,"",cordonnier ambulant,Italie,,
+413,Bardotto Pasquero Desiderio,homme,"1870-05-27","",0,1,"",cordonnier,Italie,Curino,Curino
+414,Valle Luigi,homme,"1870-05-27","",0,1,"",cordonnier,Italie,Curino,Curino
+415,Reale Carlo,homme,"1870-10-24","",0,1,"famille (Evelina, Carlo, Gabriele Gioacinto, Rassegnata)",secretaire de la voie du Jura,Italie,Napoli,Napoli
+416,Bonaccio Serafino,homme,"1870-06-17","",0,1,"",menuisier,Italie,Borgosesia,Borgosesia
+417,Bonardo Lorenzo,homme,"1870-06-17","",0,1,"",gypseur,Italie,Cossato,Cossato
+418,Ravelli Pietro,homme,"1870-06-25","",0,1,femme (Marie Eusebia),gypseur,Italie,Albogno,Albogno
+419,Tosetti Giorgio,homme,"1870-06-25","",0,1,"",gypseur,Italie,,
+420,Naula Pierre,homme,"1870-06-28","",0,1,femme (Claudine née Armand),gypseur,Italie,Vintebbio,Vintebbio
+421,Tirozzi Omobono,homme,"1870-08-29","",0,1,"",vitrier,Italie,Trasquera,Trasquera
+292,Maini Veuve de Jean Baptiste,homme,,,,1,"famille (Anne Marie Cassina, Jean, Paul)",gypseur,Italie,Albogno,Albogno
