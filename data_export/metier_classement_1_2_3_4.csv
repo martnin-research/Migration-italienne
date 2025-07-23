@@ -1,0 +1,129 @@
+"metier_pk","metier","classement_1","classement_2","classement_3","définition","classement_4"
+1,gypseur,secteur secondaire,entreprise de construction,construction ,"ouvrier du bâtiment spécialisé dans la pose, le travail et la finition du plâtre (gypse)",
+2,ouvrier,secteur secondaire,usine,industrie,,
+3,menuisier,secteur secondaire,entreprise de construction,construction ,,
+4,servante,secteur tertiaire ,domicile,service domestique,,
+5,émailleur,secteur secondaire,usine,industrie,,
+6,app. couvreur,secteur secondaire,entreprise de construction,construction ,"artisan spécialisé dans la pose, la réparation et l’entretien des toitures ",
+7,chaudronnier,secteur secondaire,usine,industrie,"",
+8,graveur,secteur secondaire,atelier artisanal ,artisanat ,"ouvrier spécialisé dans la fabrication, l’assemblage et la réparation d’objets métalliques en tôle",
+9,maçon,secteur secondaire,entreprise de construction,construction ,,
+10,doreur,secteur secondaire,atelier artisanal ,artisanat ,,
+11,fabricant de glace,secteur secondaire,usine,industrie,,
+12,guillocheur,secteur secondaire,atelier artisanal ,industrie,"artisan spécialisé dans le guillochage, une technique de gravure ornementale mécanique réalisée sur métal ",
+13,horloger,secteur secondaire,usine,industrie,,horlogerie 
+14,quincailler,secteur tertiaire,magasin,commerce,"commerçant spécialisé dans la vente d’articles de quincaillerie : outils, matériaux de bricolage, ferrures, visserie, produits de fixation, peintures",
+15,tailleuse,secteur secondaire,atelier artisanal ,artisanat ,,
+16,monteur de boites,secteur secondaire,usine ,industrie,,
+17,ramoneur,secteur tertiaire,domicile ,service publique ,"professionnel qui nettoie les conduits de cheminée, poêles, chaudières afin d’éviter les risques d’incendie et d’améliorer le fonctionnement des systèmes de chauffage",
+18,émouleur,secteur secondaire,atelier artisanal ,artisanat ,artisan spécialisé dans l’affûtage et le réaffûtage des outils tranchants ,
+19,négociant,secteur tertiaire,magasin,commerce,,
+20,tailleur,secteur secondaire,atelier artisanal ,artisanat ,"artisan ou ouvrier spécialisé dans la confection, la coupe et l’assemblage de vêtements, souvent sur mesure, pour hommes ou femmes",
+21,bijoutier,secteur secondaire,atelier artisanal ,artisanat ,,
+22,colporteur,secteur tertiare,,commerce, personne qui vend des marchandises en se déplaçant de porte en porte ou dans la rue,
+23,blanchisseur,secteur tertiaire,usine,industrie,"professionnel qui lave, traite, repasse et blanchit du linge, des vêtements ou des textiles",textile
+24,commisionaire,secteur tertiaire,magasin,commerce,,
+25,app. tailleuse,secteur secondaire,atelier artisanal ,artisanat ,,
+26,marchande,secteur tertiaire,magasin,commerce,,
+27,app. ramoneur,secteur tertiaire,domicile ,service publique ,,
+28,ferblantier,secteur secondaire,usine,industrie,,
+29,serrurier,secteur secondaire,atelier artisanal ,artisanat ,,
+30,mecanicien,secteur secondaire,usine,industrie,,
+31,négociante,secteur tertiaire,magasin,commerce,,
+32,marchand,secteur tertiaire,magasin,commerce,,
+33,maitre gypseur,secteur secondaire,entreprise de construction,construction ,,
+34,app. doreuse,secteur secondaire,atelier artisanal ,artisanat ,,
+35,finisseuse de boites,secteur secondaire,usine,industrie,"ouvrière spécialisée dans les étapes finales de la fabrication de boîtes, souvent en carton, métal, ou bois",
+36,horlogère,secteur secondaire,usine,industrie,,hologerie
+37,potier d'étain,secteur secondaire,atelier artisanal ,artisanat ,,
+38,ouvrière,secteur secondaire,usine,horlogerie,,
+39,boitier,secteur secondaire,atelier artisanal ,artisanat ,,
+40,monteur,secteur secondaire,usine,industrie,,
+41,fabricant de secrets,secteur secondaire,usine,industrie,,
+42,charpentier,secteur secondaire,entreprise de construction,construction ,,
+43,app. faiseur de secrets,secteur secondaire,usine,industrie,,
+44,mod. porcel,"",,,,
+45,app. fabricant parapluie,secteur secondaire,atelier artisanal ,artisanat ,,
+46,commisionaire voyageur,secteur tertiaire,"",commerce,,
+47,mercier,secteur tertiaire,magasin,commerce,"commerçant spécialisé dans la vente d’articles de mercerie : boutons, rubans, fils, tissus, accessoires de couture, dentelles",textile
+48,photographe,secteur tertiaire,"",service artistique,,
+49,fournalier,"",,,,
+50,pierriste,secteur secondaire,entreprise de construction,construction ,"ouvrier spécialisé dans la taille, la pose et la finition des pierres pour la construction, la restauration de bâtiments",
+51,remonteuse,secteur secondaire,usine,industrie,,horlogerie
+52,app. remonteuse,secteur secondaire,usine,industrie,,horlogerie
+53,coiffeur,secteur tertiaire,magasin,"",,
+54,fabricant casquette,secteur secondaire,atelier artisanal ,artisanat,,
+55,platrier,secteur secondaire,entreprise de construction,construction ,,
+56,horloger remonteur,secteur secondaire,usine,industrie,,horlogerie
+57,faiseur de secrets,secteur secondaire,usine,industrie,,
+58,marchand de porcelaine,secteur tertiaire,magasin,commerce,,
+59,tenturier,secteur secondaire,atelier artisanal ,artisanat,,textile
+60,libraire,secteur tertiaire,magasin,commerce,,
+61,remonteur repateur,secteur secondaire,usine,industrie,ouvrier spécialisé dans l’assemblage (remontage) et la réparation d’appareils mécaniques ou horlogers,horlogerie
+62,vernisseur,secteur secondaire,atelier artisanal ,artisanat,,
+63,entrepreneur,secteur secondaire,usine,industrie,,
+64,manœuvre,secteur secondaire,usine,industrie,,
+65,fille de magasin,secteur tertiaire,magasin,commerce,,
+66,marechal,secteur secondaire,atelier artisanal ,artisanat,,maréchal-ferrant est un artisan spécialisé dans le soin et la ferrure des chevaux
+67,manœvre et entrepreneur,secteur secondaire,usine,industrie,,
+68,poseur,secteur secondaire,entreprise de construction,construction ,,
+69,polisseur d'aciers,secteur secondaire,usine,industrie,,
+70,remonteur,secteur secondaire,usine,industrie,,horlogerie
+71,fabricant de vis,secteur secondaire,usine,industrie,,
+72,app. horloger,secteur secondaire,usine,industrie,,horlogerie
+73,app. remonteur,secteur secondaire,usine,industrie,,horlogerie
+74,terrassier,secteur secondaire,entreprise de construction,construction ,,
+75,directeur gazier,secteur secondaire,usine,industrie,,usine de gaz
+76,manœvre usine à gaz,secteur secondaire,usine,industrie,,usine de gaz
+77,mineur,secteur primaire,carrière,extraction de ressources naturelles,,
+78,gazier,secteur secondaire,usine,industrie,,usine de gaz
+79,vitrier,secteur secondaire,atelier artisanal ,artisanat,,
+80,cordonnier,secteur secondaire,atelier artisanal ,artisanat,"artisan spécialisé dans la fabrication, la réparation et l’entretien des chaussures, sacs, et articles en cuir",
+81,maitresse de pension,secteur tertiaire,pension,service domestique,,
+82,app. gypseur,secteur secondaire,entreprise de construction,construction,,
+83,marchand d'étoffes,secteur tertiaire,magasin,commerce,,textile
+84,dégrofriseur,secteur secondaire,atelier artisanal ,artisanat,,textile
+85,repasseur,secteur tertiaire,"",service,"personne spécialisée dans le repassage et la finition des vêtements et textiles, ",textile
+86,maitre ferblantier,secteur secondaire,usine,industrie,,
+87,cafetier/epicier,secteur tertiaire,magasin,commerce,,
+88,mercière,secteur tertiaire,magasin,commerce,"commerçante spécialisée dans la vente d’articles de mercerie : fils, boutons, rubans, aiguilles, tissus, et autres accessoires de couture",textile
+89,domestique,secteur tertiaire,domicile,service domestique,,
+90,gypseur menuisier,secteur secondaire,entreprise de construction,construction,,
+91,cabaretier / terrassier,secteur secondaire,,,,
+92,maitre carrier,secteur primaire,carrière,extraction de ressources naturelles,,
+93,secreto ?,"",,,,
+94,chiffonnier,secteur tertiaire,,service,"personne qui collecte, récupère et revend des vieux tissus, chiffons, objets usagés, souvent pour les recycler ou les revendre",textile
+95,ferblantier colporteur,secteur secondaire,usine,industrie,,
+96,menagère de pension,secteur tertiaire,pension,service domestique,,
+97,menagère,secteur tertiaire,domicile,service domestique,,
+98,professeur de musique,secteur tertiaire,domicile,service éducative ,,enseignement
+99,adoneisseuse ?,"",,,,
+100,app. epicier,secteur tertiaire,magasin,commerce,,
+101,maitre maçon,secteur secondaire,entreprise de construction,construction,,
+102,garde malade,secteur tertiaire,domicile,service domestique,,
+103,surnalière,"",,,,
+104,doreuse,secteur secondaire,atelier artisanal ,artisanat,,
+105,app. boitier,secteur secondaire,usine,industrie,,
+106,gypseur cafetier,secteur secondaire,,,,
+107,brunisseuse,"",,,,
+108,lingère,secteur tertiaire,domicile,service publique,"personne spécialisée dans le lavage, le repassage, la réparation et l’entretien du linge de maison et du textile",textile
+109,fumiste,secteur secondaire,atelier artisanal ,artisanat,"artisan spécialisé dans l’installation, l’entretien et le nettoyage des cheminées, conduits de fumée, poêles, et systèmes de ventilation",
+110,daguerrotip (photographe),secteur tertiaire,,service artistique,,
+111,aiguilleur,secteur tertiaire,gare,service publique,personne chargée de diriger et contrôler le passage des trains sur les voies ferrées,chemin de fer
+112,treittageur,"",,,,
+113,entrepreneur de travaux,secteur secondaire,entreprise de construction,construction,,
+114,app. faiseur d'aiguille,secteur secondaire,gare,service publique,,chemin de fer
+115,app. graveur,secteur secondaire,atelier artisanal ,artisanat,,
+116,modiste,secteur tertiaire,magasin,commerce,,textile
+117,contromaitre,secteur secondaire,usine,industrie,"responsable d’équipe sur un chantier, en usine ou dans une entreprise, chargé de superviser le travail des ouvriers",
+118,greneuse,secteur primaire,,agriculture,,
+119,app. oliseur de boite?,secteur secondaire,usine,industrie,,
+120,metre gypseur,secteur secondaire,entreprise de construction,construction,,
+121,app. cuisinier,secteur secondaire,,service,,
+122,appareilleur,secteur secondaire,usine,industrie,"ouvrier chargé de préparer, régler et entretenir les machines, appareils ou équipements industriels afin d’assurer leur bon fonctionnement",
+123,app. repasseur,secteur secondaire,"",service domestique,,textile
+124,doreur de boites,secteur secondaire,atelier artisanal ,artisanat,,
+125,cordonnier ambulant,secteur secondaire,"",commerce,,
+126,secretaire de la voie du Jura,secteur tertiaire,gare,service publique ,,chemin de fer
+127,commissionaire,secteur tertiaire,magasin,commerce,,
+128,cabaretier,secteur tertiaire,magasin,commerce,,
