@@ -115,8 +115,8 @@ ORDER BY partie_b;
 
 
 /*
- * Que les personnes résidant à des adresses correctement identifiées
- * ON utilise isi des POINTS sur la carte
+ * On ne représente que les personnes résidant à des adresses correctement identifiées
+ * On utilise ici des POINTS sur la carte
  */
 
 SELECT *
@@ -160,6 +160,8 @@ ORDER BY partie_b
 ;
 
 
+DROP VIEW v_points_classes_metiers_periodes_effectif;
+CREATE VIEW v_points_classes_metiers_periodes_effectif AS
 WITH tw1 AS (
 SELECT nom_rue || ' ' || numero as adresse, pkuid, geometry 
 FROM adresses_qgis
@@ -201,7 +203,30 @@ ORDER BY effectif DESC;
 	
 
 
+SELECT *
+FROM v_points_classes_metiers_periodes_effectif
+ORDER BY periode, classement_calcule ;
 
+
+-- regrouper et compter par classement métier et période
+SELECT classement_calcule, periode, SUM(effectif) AS effectif
+FROM v_points_classes_metiers_periodes_effectif
+GROUP BY classement_calcule, periode
+ORDER BY periode, effectif DESC;
+
+
+/*
+ * Question: faut-il représenter sur la carte seulement les professions qui 
+ * comptent plus de 10 personnes ?
+ */
+
+-- regrouper et compter par classement métier
+SELECT classement_calcule, SUM(effectif) AS effectif
+FROM v_points_classes_metiers_periodes_effectif
+GROUP BY classement_calcule
+--HAVING SUM(effectif) < 10
+HAVING SUM(effectif) > 10
+ORDER BY classement_calcule DESC;
 
 
 
