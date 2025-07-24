@@ -68,6 +68,17 @@ order by period, number DESC;
 
 
 
+<<<<<<< HEAD
+SELECT vp.*, m.pk_mention, me.*, me.classement_1 
+FROM v_personne vp 
+	JOIN Mention m  ON m.pk_personne = vp.pk_personne 
+	JOIN metier me ON me.metier_pk = m.fk_metier 
+order by vp.person;
+
+select classement_1, count(*) AS number
+from metier m 
+group by classement_1;
+=======
 /*
  * Synthèse: mention de personne, genre, periode, domicile, classe métier
  */
@@ -144,6 +155,7 @@ ORDER BY periode, effectif DESC, classement_calcule, genre;
 
 
 
+>>>>>>> dv_FB
 
 
 

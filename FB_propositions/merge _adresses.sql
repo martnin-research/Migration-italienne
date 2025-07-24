@@ -1,5 +1,5 @@
 
-
+-- explorer les adresses
 WITH tw1 AS (
 SELECT nom_rue || ' ' || numero as adresse, pkuid, proprietai, geometry 
 FROM adresses_qgis
@@ -8,14 +8,29 @@ SELECT adresse, pkuid, proprietai, geometry, '%' || adresse || '%' as adresse_li
 FROM tw1;
 
 SELECT *
-FROM v_mention_lieu_domicile ;
+FROM v_mention_lieu_domicile_periode ;
 
+
+/*
+ * Evolution des adresses pour une personne
+ */
 
 -- agréger afin d'inspecter l'évolution des adresses
 SELECT pk_personne, personne, 
 GROUP_CONCAT(date_permis_modifiee, ' | ') dates, GROUP_CONCAT(domicile, ' | ') domiciles
-FROM v_mention_lieu_domicile
+FROM v_mention_lieu_domicile_periode
 GROUP BY pk_personne, personne;
+
+
+CREATE VIEW v_evolution_adresse_personne AS
+SELECT pk_personne, personne, 
+GROUP_CONCAT(date_permis_modifiee, ' | ') dates, GROUP_CONCAT(domicile, ' | ') domiciles
+FROM v_mention_lieu_domicile_periode
+GROUP BY pk_personne, personne;
+
+
+SELECT *
+FROM v_evolution_adresse_personne;
 
 
 
@@ -32,7 +47,7 @@ SELECT nom_rue || ' ' || numero as adresse, pkuid, proprietai, geometry
 FROM adresses_qgis
 )
 SELECT vml.*, tw1.*
-FROM v_mention_lieu_domicile vml 
+FROM v_mention_lieu_domicile_periode vml 
 	--LEFT 
 		JOIN tw1 
 		ON adresse LIKE '%' || vml.partie_b || '%'
@@ -55,30 +70,6 @@ GROUP BY trim(nom_rue) ;
 
 
 
-/*
- * Créer les rues
- */
-DROP VIEW v_rues;
-CREATE VIEW v_rues AS
-WITH TW1 AS (
-SELECT nom_rue_corr, numero,geometry
-FROM adresses_qgis
-ORDER BY geometry
-), tw2 AS (
-SELECT nom_rue_corr, COUNT(*) AS points,  group_concat(numero) as numeros, group_concat(distinct (REPLACE((REPLACE(geometry, 'POINT (', '')), ')', ''))) geometry
-FROM tw1
-GROUP BY nom_rue_corr
-)
-SELECT nom_rue_corr,
-'LINESTRING (' || CASE 
-		WHEN points = 1 
-		THEN geometry || ',' || geometry
-		ELSE geometry
-END || ')' AS geometry, numeros, points
-FROM tw2;
-
-SELECT *
-FROM v_rues;
 
 
 
@@ -233,6 +224,48 @@ ORDER BY classement_calcule DESC;
 
 
 
+
+
+/*
+ * Créer les rues
+ * 
+ * Tentative de créer des rues à partir des points
+ * 
+ * L'affichage n'est pas joli, même si on a une logique de simplification dans QGis
+ * 
+ */
+
+with tw1 AS (
+SELECT REPLACE(REPLACE(geometry, 'POINT (', ''), ')', '') geom
+from adresses_qgis)
+select geom, 
+	(SUBSTR(geom, 1, INSTR(geom, ' ') - 1) + 0.001) || ' ' || (SUBSTR(geom, INSTR(geom, ' ') + 1) + 0.001) AS new_geom
+from tw1;
+
+
+DROP VIEW v_rues;
+CREATE VIEW v_rues AS
+WITH TW1 AS (
+SELECT nom_rue_corr, numero,geometry
+FROM adresses_qgis
+ORDER BY geometry
+), tw2 AS (
+SELECT nom_rue_corr, COUNT(*) AS points,  group_concat(numero) as numeros, group_concat(distinct (REPLACE((REPLACE(geometry, 'POINT (', '')), ')', ''))) geometry
+FROM tw1
+GROUP BY nom_rue_corr
+)
+SELECT nom_rue_corr,
+'LINESTRING (' || CASE 
+		WHEN points = 1 
+		THEN geometry || ',' || (SUBSTR(geometry, 1, INSTR(geometry, ' ') - 1) + 0.0002) || ' ' || (SUBSTR(geometry, INSTR(geometry, ' ') + 1) + 0.0002)
+		ELSE geometry
+END || ')' AS geometry, numeros, points
+FROM tw2;
+
+SELECT *
+FROM v_rues;
+
+
 /*
  * Résidence dans les rues
  */
@@ -273,7 +306,7 @@ FROM v_mention_domicile_metier_periode vml
 
 
 
-
+-- requête pour préparer le fichier à exporter vers QGis
 SELECT vml.genre, 
 vml.classement_calcule, 
 vr.nom_rue_corr,
