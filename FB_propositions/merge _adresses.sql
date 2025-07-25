@@ -193,10 +193,13 @@ GROUP BY classement_calcule, periode, adresse, pkuid, geometry
 ORDER BY effectif DESC;
 	
 
-
+-- données affichées sur la carte sous forme de points adresse
 SELECT *
 FROM v_points_classes_metiers_periodes_effectif
 ORDER BY periode, classement_calcule ;
+
+
+
 
 
 -- regrouper et compter par classement métier et période
@@ -277,6 +280,9 @@ SELECT *
 FROM v_rues;
 
 
+SELECT *
+FROM rues_simplified_and_modified;
+
 -- inspection
 SELECT vml.pk_personne, vml.person, vml.genre, vml.classement_calcule, 
 CASE 
@@ -284,13 +290,13 @@ CASE
 	THEN 'Rue Robert'
 	ELSE vml.partie_b
 END as partie_b_corr,
-vr.nom_rue_corr,
+vr.nom_rue_co,
 periode,
 vml.date_permis_modifiee,
 vr.geometry
 FROM v_mention_domicile_metier_periode vml 
 	--LEFT 
-	JOIN v_rues vr ON vr.nom_rue_corr LIKE '%' || 
+	JOIN rues_simplified_and_modified vr ON vr.nom_rue_co LIKE '%' || 
 	TRIM(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(partie_b_corr, '0', ''),
 		'1', ''),
 		'2', ''),
@@ -307,15 +313,16 @@ FROM v_mention_domicile_metier_periode vml
 
 
 -- requête pour préparer le fichier à exporter vers QGis
+CREATE VIEW v_rues_metiers_genre_periode_effectif AS
 SELECT vml.genre, 
 vml.classement_calcule, 
-vr.nom_rue_corr,
+vr.nom_rue_co,
 periode,
 vr.geometry,
 COUNT(*) as effectif
 FROM v_mention_domicile_metier_periode vml 
 	--LEFT 
-	JOIN v_rues vr ON vr.nom_rue_corr LIKE '%' || 
+	JOIN rues_simplified_and_modified vr ON vr.nom_rue_co LIKE '%' || 
 	TRIM(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(REPLACE(
 		CASE 
 			WHEN vml.partie_b LIKE 'Robert%'
@@ -332,13 +339,44 @@ FROM v_mention_domicile_metier_periode vml
 		'8', ''),
 		'9', ''))
 	|| '%'
-	WHERE length(vr.nom_rue_corr) > 0
+	WHERE length(vr.nom_rue_co) > 0
 	Group BY vml.genre, 
 	vml.classement_calcule, 
-	vr.nom_rue_corr,
+	vr.nom_rue_co,
 	periode,
 	vr.geometry;
 
 
+SELECT *
+FROM v_rues_metiers_genre_periode_effectif
+ORDER BY effectif DESC;
 
 
+SELECT *
+FROM v_rues_metiers_genre_periode_effectif
+ORDER BY effectif DESC;
+
+
+
+
+
+-- rues '1848_1854'
+SELECT nom_rue_co, geometry, SUM(effectif) as effectif
+FROM v_rues_metiers_genre_periode_effectif
+WHERE periode = '1848_1854'
+GROUP BY nom_rue_co, geometry
+ORDER BY effectif DESC;
+
+-- rues '1855_1860'
+SELECT nom_rue_co, geometry, SUM(effectif) as effectif
+FROM v_rues_metiers_genre_periode_effectif
+WHERE periode = '1855_1860'
+GROUP BY nom_rue_co, geometry
+ORDER BY effectif DESC;
+
+-- rues '1861_1870'
+SELECT nom_rue_co, geometry, SUM(effectif) as effectif
+FROM v_rues_metiers_genre_periode_effectif
+WHERE periode = '1861_1870'
+GROUP BY nom_rue_co, geometry
+ORDER BY effectif DESC;
