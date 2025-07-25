@@ -1,0 +1,471 @@
+"pk_personne"|"person"|"date_permis_modifiee"|"classement_calcule"|"periode"|"region"|"province"|"nom_ville"|"long"|"lat"
+21|Tognetti Ulysse|"1848-07-28"|entreprise de construction|"1848_1854"|Piemonte|Varallo|Parone|8.2566|45.7934
+21|Tognetti Ulysse|"1850-07-30"|magasin|"1848_1854"|Piemonte|Varallo|Parone|8.2566|45.7934
+21|Tognetti Ulysse|"1854-08-11"|magasin|"1848_1854"|Piemonte|Varallo|Parone|8.2566|45.7934
+21|Tognetti Ulysse|"1858-09-20"|magasin|"1855_1860"|Piemonte|Varallo|Parone|8.2566|45.7934
+21|Tognetti Ulysse|"1862-10-06"|magasin|"1861_1870"|Piemonte|Varallo|Parone|8.2566|45.7934
+21|Tognetti Ulysse|"1866-11-09"|magasin|"1861_1870"|Piemonte|Varallo|Parone|8.2566|45.7934
+21|Tognetti Ulysse|"1870-06-17"|magasin|"1861_1870"|Piemonte|Varallo|Parone|8.2566|45.7934
+2|Calzone Henri|"1848-04-17"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+2|Calzone Henri|"1848-04-17"|entreprise de construction|"1848_1854"|Piemonte|Novara|Arona|8.5597|45.757
+2|Calzone Henri|"1849-07-16"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+2|Calzone Henri|"1849-07-16"|entreprise de construction|"1848_1854"|Piemonte|Novara|Arona|8.5597|45.757
+2|Calzone Henri|"1851-04-01"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+2|Calzone Henri|"1851-04-01"|entreprise de construction|"1848_1854"|Piemonte|Novara|Arona|8.5597|45.757
+2|Calzone Henri|"1853-11-29"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+2|Calzone Henri|"1853-11-29"|entreprise de construction|"1848_1854"|Piemonte|Novara|Arona|8.5597|45.757
+2|Calzone Henri|"1857-05-12"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+2|Calzone Henri|"1857-05-12"|entreprise de construction|"1855_1860"|Piemonte|Novara|Arona|8.5597|45.757
+2|Calzone Henri|"1861-06-17"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+2|Calzone Henri|"1861-06-17"|entreprise de construction|"1861_1870"|Piemonte|Novara|Arona|8.5597|45.757
+65|Sacchi Donato|"1849-11-12"|entreprise de construction|"1848_1854"|Piemonte|Novara|Maggiora|8.4334|45.6841
+65|Sacchi Donato|"1851-07-28"|entreprise de construction|"1848_1854"|Piemonte|Novara|Maggiora|8.4334|45.6841
+65|Sacchi Donato|"1863-12-14"|entreprise de construction|"1861_1870"|Piemonte|Novara|Maggiora|8.4334|45.6841
+65|Sacchi Donato|"1868-03-09"|entreprise de construction|"1861_1870"|Piemonte|Novara|Maggiora|8.4334|45.6841
+65|Sacchi Donato|"1855-09-24"|entreprise de construction|"1855_1860"|Piemonte|Novara|Maggiora|8.4334|45.6841
+65|Sacchi Donato|"1859-10-24"|entreprise de construction|"1855_1860"|Piemonte|Novara|Maggiora|8.4334|45.6841
+30|Vierin Maurice Joseph|"1848-12-20"|domicile|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+30|Vierin Maurice Joseph|"1849-11-26"|domicile|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+30|Vierin Maurice Joseph|"1851-10-08"|domicile|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+30|Vierin Maurice Joseph|"1859-12-31"|domicile|"1855_1860"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+30|Vierin Maurice Joseph|"1864-01-27"|domicile|"1861_1870"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+54|Tognetti Eugène|"1849-09-15"|entreprise de construction|"1848_1854"|Piemonte|Varallo|Parone|8.2566|45.7934
+54|Tognetti Eugène|"1855-12-18"|entreprise de construction|"1855_1860"|Piemonte|Varallo|Parone|8.2566|45.7934
+54|Tognetti Eugène|"1860-04-20"|entreprise de construction|"1855_1860"|Piemonte|Varallo|Parone|8.2566|45.7934
+54|Tognetti Eugène|"1864-04-26"|entreprise de construction|"1861_1870"|Piemonte|Varallo|Parone|8.2566|45.7934
+54|Tognetti Eugène|"1868-05-16"|entreprise de construction|"1861_1870"|Piemonte|Varallo|Parone|8.2566|45.7934
+77|Tosetti François Jacques|"1850-06-28"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+77|Tosetti François Jacques|"1863-12-14"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+77|Tosetti François Jacques|"1855-09-24"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+77|Tosetti François Jacques|"1859-10-22"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+92|Savaglio Dominique Cécile|"1864-02-16"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+92|Savaglio Dominique Cécile|"1864-02-16"|magasin|"1861_1870"|Piemonte|Alessandria|Vargo|8.8838|44.7492
+92|Savaglio Dominique Cécile|"1851-05-09"|magasin|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+92|Savaglio Dominique Cécile|"1851-05-09"|magasin|"1848_1854"|Piemonte|Alessandria|Vargo|8.8838|44.7492
+92|Savaglio Dominique Cécile|"1851-09-23"|magasin|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+92|Savaglio Dominique Cécile|"1851-09-23"|magasin|"1848_1854"|Piemonte|Alessandria|Vargo|8.8838|44.7492
+92|Savaglio Dominique Cécile|"1855-12-18"|magasin|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+92|Savaglio Dominique Cécile|"1855-12-18"|magasin|"1855_1860"|Piemonte|Alessandria|Vargo|8.8838|44.7492
+92|Savaglio Dominique Cécile|"1859-12-26"|magasin|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+92|Savaglio Dominique Cécile|"1859-12-26"|magasin|"1855_1860"|Piemonte|Alessandria|Vargo|8.8838|44.7492
+135|Pecora Charles|"1853-01-25"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Varallo|8.2576|45.8144
+135|Pecora Charles|"1865-10-30"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Varallo|8.2576|45.8144
+135|Pecora Charles|"1869-12-06"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Varallo|8.2576|45.8144
+135|Pecora Charles|"1857-04-08"||"1855_1860"|Piemonte|Vercelli|Varallo|8.2576|45.8144
+135|Pecora Charles|"1861-05-13"||"1861_1870"|Piemonte|Vercelli|Varallo|8.2576|45.8144
+140|Casagrande Jean Antoine|"1853-05-22"|usine|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+140|Casagrande Jean Antoine|"1857-05-25"|usine|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+140|Casagrande Jean Antoine|"1861-06-03"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+140|Casagrande Jean Antoine|"1863-04-20"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+140|Casagrande Jean Antoine|"1865-06-08"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+5|Manzini Jean Baptiste|"1848-01-18"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Cavandone|8.5178|45.9459
+5|Manzini Jean Baptiste|"1848-04-28"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Cavandone|8.5178|45.9459
+5|Manzini Jean Baptiste|"1850-05-14"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Cavandone|8.5178|45.9459
+5|Manzini Jean Baptiste|"1851-05-29"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Cavandone|8.5178|45.9459
+8|Piccot Denis|"1848-06-14"|usine|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+8|Piccot Denis|"1850-02-09"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+8|Piccot Denis|"1852-09-02"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+8|Piccot Denis|"1856-11-14"|atelier artisanal |"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+14|Poletti Joseph|"1848-07-21"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+14|Poletti Joseph|"1849-10-22"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+14|Poletti Joseph|"1852-02-02"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+14|Poletti Joseph|"1858-07-23"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+15|Laplace Antoine|"1848-07-21"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Archamps|6.1307|46.1349
+15|Laplace Antoine|"1850-07-27"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Archamps|6.1307|46.1349
+15|Laplace Antoine|"1852-08-21"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Archamps|6.1307|46.1349
+15|Laplace Antoine|"1856-09-24"|atelier artisanal |"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Archamps|6.1307|46.1349
+16|Tognetti Marc Antoine|"1848-07-21"|entreprise de construction|"1848_1854"|Piemonte|Varallo|Parone|8.2566|45.7934
+16|Tognetti Marc Antoine|"1850-09-20"|entreprise de construction|"1848_1854"|Piemonte|Varallo|Parone|8.2566|45.7934
+16|Tognetti Marc Antoine|"1856-12-04"|entreprise de construction|"1855_1860"|Piemonte|Varallo|Parone|8.2566|45.7934
+16|Tognetti Marc Antoine|"1860-12-31"|entreprise de construction|"1855_1860"|Piemonte|Varallo|Parone|8.2566|45.7934
+50|Fabry Alexis|"1849-08-10"|commerce|"1848_1854"|Haute-Saône|Bourgogne-Franche-Comté|Héricourt|6.7635|47.5793
+50|Fabry Alexis|"1851-08-19"|commerce|"1848_1854"|Haute-Saône|Bourgogne-Franche-Comté|Héricourt|6.7635|47.5793
+50|Fabry Alexis|"1855-10-05"|commerce|"1855_1860"|Haute-Saône|Bourgogne-Franche-Comté|Héricourt|6.7635|47.5793
+50|Fabry Alexis|"1860-11-28"|commerce|"1855_1860"|Haute-Saône|Bourgogne-Franche-Comté|Héricourt|6.7635|47.5793
+85|Dechrevens Jean|"1848-07-28"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Veigy-Foncenex|6.2502|46.267
+85|Dechrevens Jean|"1850-08-22"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Veigy-Foncenex|6.2502|46.267
+85|Dechrevens Jean|"1852-08-21"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Veigy-Foncenex|6.2502|46.267
+85|Dechrevens Jean|"1856-09-24"|atelier artisanal |"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Veigy-Foncenex|6.2502|46.267
+96|Maini Jean Baptiste|"1856-05-01"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+96|Maini Jean Baptiste|"1860-08-13"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+96|Maini Jean Baptiste|"1864-07-04"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+96|Maini Jean Baptiste|"1851-07-19"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+153|Viotti Charles|"1855-04-27"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Rima San Giuseppe|7.9994|45.8852
+153|Viotti Charles|"1860-05-16"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Rima San Giuseppe|7.9994|45.8852
+153|Viotti Charles|"1862-10-06"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Rima San Giuseppe|7.9994|45.8852
+153|Viotti Charles|"1866-11-16"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Rima San Giuseppe|7.9994|45.8852
+181|Casagrande Joseph Maurice|"1856-12-08"|usine|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+181|Casagrande Joseph Maurice|"1860-12-10"|usine|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+181|Casagrande Joseph Maurice|"1864-12-23"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+181|Casagrande Joseph Maurice|"1869-02-13"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+182|Ravelli Joseph|"1856-12-16"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+182|Ravelli Joseph|"1862-03-31"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+182|Ravelli Joseph|"1866-04-30"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+219|Prebandier Jospeh Légier|"1850-01-18"|domicile|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+219|Prebandier Jospeh Légier|"1851-09-20"|domicile|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+219|Prebandier Jospeh Légier|"1855-10-05"|domicile|"1855_1860"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+219|Prebandier Jospeh Légier|"1863-11-02"|domicile|"1861_1870"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+323|Sironi Francesco|"1853-05-25"|service artistique|"1848_1854"|Lombardia|Varese|Albizzate |8.7987|45.7167
+323|Sironi Francesco|"1861-06-08"|service artistique|"1861_1870"|Lombardia|Varese|Albizzate |8.7987|45.7167
+323|Sironi Francesco|"1865-08-14"|service artistique|"1861_1870"|Lombardia|Varese|Albizzate |8.7987|45.7167
+323|Sironi Francesco|"1857-06-23"|service artistique|"1855_1860"|Lombardia|Varese|Albizzate |8.7987|45.7167
+359|Manzini Charles|"1856-05-01"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Migiandone|8.384|45.9852
+359|Manzini Charles|"1859-01-24"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Migiandone|8.384|45.9852
+359|Manzini Charles|"1860-05-07"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Migiandone|8.384|45.9852
+359|Manzini Charles|"1861-02-04"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Migiandone|8.384|45.9852
+20|Duret Pierre|"1848-07-28"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+20|Duret Pierre|"1852-07-16"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+20|Duret Pierre|"1856-09-24"|usine|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+22|Tognetti Numa|"1848-07-28"|horlogerie|"1848_1854"|Piemonte|Varallo|Parone|8.2566|45.7934
+22|Tognetti Numa|"1850-07-27"|horlogerie|"1848_1854"|Piemonte|Varallo|Parone|8.2566|45.7934
+22|Tognetti Numa|"1860-06-01"|horlogerie|"1855_1860"|Piemonte|Varallo|Parone|8.2566|45.7934
+51|Barel Jean Gratz|"1849-08-10"|usine|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+51|Barel Jean Gratz|"1851-06-12"|usine|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+51|Barel Jean Gratz|"1855-09-05"|usine|"1855_1860"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+82|Francia Etienne|"1850-07-27"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Cimamulera|8.2665|46.0175
+82|Francia Etienne|"1852-08-21"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Cimamulera|8.2665|46.0175
+82|Francia Etienne|"1856-09-10"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Cimamulera|8.2665|46.0175
+97|Ducrot Jean François|"1849-08-10"|usine|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Poche|6.4723|46.2511
+97|Ducrot Jean François|"1851-07-19"|usine|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Poche|6.4723|46.2511
+97|Ducrot Jean François|"1852-11-24"|commerce|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Poche|6.4723|46.2511
+102|Duret Bernard|"1851-09-23"|commerce|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+102|Duret Bernard|"1854-10-13"|commerce|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+102|Duret Bernard|"1858-10-22"|magasin|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+104|Sigly David|"1849-10-01"|textile|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Thonon-les-Bains|6.4837|46.3671
+104|Sigly David|"1851-09-23"|textile|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Thonon-les-Bains|6.4837|46.3671
+104|Sigly David|"1856-02-25"|textile|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Thonon-les-Bains|6.4837|46.3671
+110|Pastore Jean Baptiste|"1850-02-18"|usine|"1848_1854"|Piemonte|Alessandria|Conzano|8.4554|45.0221
+110|Pastore Jean Baptiste|"1851-11-19"|atelier artisanal |"1848_1854"|Piemonte|Alessandria|Conzano|8.4554|45.0221
+110|Pastore Jean Baptiste|"1856-02-02"|atelier artisanal |"1855_1860"|Piemonte|Alessandria|Conzano|8.4554|45.0221
+112|Berton Louise|"1849-10-12"|magasin|"1848_1854"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+112|Berton Louise|"1856-01-12"|magasin|"1855_1860"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+112|Berton Louise|"1852-01-02"|horlogerie|"1848_1854"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+122|Vierin Cassian|"1849-11-26"|domicile|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+122|Vierin Cassian|"1852-10-20"|usine|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+122|Vierin Cassian|"1856-02-25"|usine|"1855_1860"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+137|Demagistri Jean|"1853-04-11"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Quarona|8.2658|45.7589
+137|Demagistri Jean|"1856-09-16"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Quarona|8.2658|45.7589
+137|Demagistri Jean|"1860-10-01"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Quarona|8.2658|45.7589
+148|Gagneux François|"1854-04-15"|magasin|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Annecy|6.1293|45.8993
+148|Gagneux François|"1854-04-15"|magasin|"1848_1854"|Piemonte|Torino|Torino|7.6753|45.0803
+148|Gagneux François|"1858-02-22"|magasin|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Annecy|6.1293|45.8993
+148|Gagneux François|"1858-02-22"|magasin|"1855_1860"|Piemonte|Torino|Torino|7.6753|45.0803
+148|Gagneux François|"1863-05-04"|magasin|"1861_1870"|Haute-Savoie|Auvergne-Rhône-Alpes|Annecy|6.1293|45.8993
+148|Gagneux François|"1863-05-04"|magasin|"1861_1870"|Piemonte|Torino|Torino|7.6753|45.0803
+152|Gavard-Mannoz Pierre François|"1848-08-18"|magasin|"1848_1854"|Haute-Savoie|Annemasse|Viuz-en-Sallaz|6.4164|46.1501
+152|Gavard-Mannoz Pierre François|"1850-08-08"|atelier artisanal |"1848_1854"|Haute-Savoie|Annemasse|Viuz-en-Sallaz|6.4164|46.1501
+152|Gavard-Mannoz Pierre François|"1855-02-23"|atelier artisanal |"1855_1860"|Haute-Savoie|Annemasse|Viuz-en-Sallaz|6.4164|46.1501
+160|Terraz Irenée|"1851-06-12"|magasin|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Notre-Dame-du-Pré|6.5997|45.5167
+160|Terraz Irenée|"1855-12-02"|magasin|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Notre-Dame-du-Pré|6.5997|45.5167
+160|Terraz Irenée|"1860-01-10"|magasin|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Notre-Dame-du-Pré|6.5997|45.5167
+174|Tosi Adalgiso Gaudezio|"1856-10-06"|usine|"1855_1860"|Piemonte|Novara|Maggiora|8.4334|45.6841
+174|Tosi Adalgiso Gaudezio|"1865-02-20"|textile|"1861_1870"|Piemonte|Novara|Maggiora|8.4334|45.6841
+199|Gioachino Vincenzo|"1862-06-30"|entreprise de construction|"1861_1870"|Piemonte|Torino|Alpette|7.5792|45.4091
+199|Gioachino Vincenzo|"1866-07-17"||"1861_1870"|Piemonte|Torino|Alpette|7.5792|45.4091
+199|Gioachino Vincenzo|"1870-08-09"|magasin|"1861_1870"|Piemonte|Torino|Alpette|7.5792|45.4091
+233|Mina Pietro|"1861-11-13"|horlogerie|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+233|Mina Pietro|"1864-07-11"|horlogerie|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+233|Mina Pietro|"1867-01-07"|horlogerie|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+245|Gentina Lorenzo|"1861-08-21"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Cellio|8.3126|45.7545
+245|Gentina Lorenzo|"1865-08-21"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Cellio|8.3126|45.7545
+245|Gentina Lorenzo|"1869-09-10"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Cellio|8.3126|45.7545
+269|Orsolano Michele|"1867-04-23"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+269|Orsolano Michele|"1859-08-15"|usine|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+269|Orsolano Michele|"1863-04-08"|atelier artisanal |"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+272|Graziano Crescentino Grisante Pasquale|"1859-12-31"|usine de gaz|"1855_1860"|Piemonte|Vercelli|Vercelli|8.4224|45.3261
+272|Graziano Crescentino Grisante Pasquale|"1863-02-24"|usine de gaz|"1861_1870"|Piemonte|Vercelli|Vercelli|8.4224|45.3261
+272|Graziano Crescentino Grisante Pasquale|"1867-05-13"|usine de gaz|"1861_1870"|Piemonte|Vercelli|Vercelli|8.4224|45.3261
+273|Poletti François|"1857-05-16"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+273|Poletti François|"1863-04-04"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+273|Poletti François|"1867-06-04"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+291|Scalabrino Vincenzo|"1861-07-15"|usine|"1861_1870"|Piemonte|Biella|Masserano|8.2191|45.5996
+291|Scalabrino Vincenzo|"1868-07-27"|usine|"1861_1870"|Piemonte|Biella|Masserano|8.2191|45.5996
+291|Scalabrino Vincenzo|"1858-06-02"|entreprise de construction|"1855_1860"|Piemonte|Biella|Masserano|8.2191|45.5996
+378|Tirozzi Bernard George|"1860-03-14"|magasin|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Trasquera|8.2137|46.2131
+378|Tirozzi Bernard George|"1860-03-14"|magasin|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Domodossola|8.2906|46.118
+378|Tirozzi Bernard George|"1862-10-30"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Trasquera|8.2137|46.2131
+378|Tirozzi Bernard George|"1862-10-30"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Domodossola|8.2906|46.118
+378|Tirozzi Bernard George|"1866-12-08"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Trasquera|8.2137|46.2131
+378|Tirozzi Bernard George|"1866-12-08"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Domodossola|8.2906|46.118
+3|Brasesco Jean|"1848-04-18"|entreprise de construction|"1848_1854"|Liguria|Genova|Casella|8.9992|44.5367
+3|Brasesco Jean|"1852-12-02"|entreprise de construction|"1848_1854"|Liguria|Genova|Casella|8.9992|44.5367
+17|Favre Michel Antoine|"1848-07-28"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Annemasse|6.2502|46.2
+17|Favre Michel Antoine|"1850-08-31"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Annemasse|6.2502|46.2
+17|Favre Michel Antoine|"1853-04-30"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Annemasse|6.2502|46.2
+25|Battistilo Carlo Giuseppe|"1848-09-05"|entreprise de construction|"1848_1854"|Piemonte|Bussoleno|Foresto|7.1212|45.1428
+25|Battistilo Carlo Giuseppe|"1850-09-06"|entreprise de construction|"1848_1854"|Piemonte|Bussoleno|Foresto|7.1212|45.1428
+32|Demagistri Joseph|"1849-02-03"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Quarona|8.2658|45.7589
+32|Demagistri Joseph|"1863-06-01"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Quarona|8.2658|45.7589
+37|Masoni Bartolomeo|"1849-04-03"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Arola|8.3565|45.8087
+38|Masoni Giovanni|"1849-04-03"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Arola|8.3565|45.8087
+38|Masoni Giovanni|"1850-07-09"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Arola|8.3565|45.8087
+43|Magistrini Jean Dominique|"1849-04-05"|entreprise de construction|"1848_1854"|Piemonte|Novara|Maggiora|8.4334|45.6841
+43|Magistrini Jean Dominique|"1851-12-20"|entreprise de construction|"1848_1854"|Piemonte|Novara|Maggiora|8.4334|45.6841
+44|Passeraz Jean Jacques|"1849-04-12"|usine|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Taninges|6.5997|46.1168
+44|Passeraz Jean Jacques|"1852-01-20"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Taninges|6.5997|46.1168
+45|Decroux Jean Nicolas|"1849-12-14"|horlogerie|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Nangy|6.3003|46.1501
+45|Decroux Jean Nicolas|"1849-04-18"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Nangy|6.3003|46.1501
+58|Arnotti Jean|"1849-10-22"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Alagna|7.9362|45.8546
+58|Arnotti Jean|"1851-07-28"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Alagna|7.9362|45.8546
+61|Rovari Bartolomeo|"1848-09-21"|horlogerie|"1848_1854"|Lombardia|Bergamo|Clusone|9.9495|45.891
+61|Rovari Bartolomeo|"1849-11-12"|horlogerie|"1848_1854"|Lombardia|Bergamo|Clusone|9.9495|45.891
+74|Manzini Giovanni Battista|"1852-10-02"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Cavandone|8.5178|45.9459
+74|Manzini Giovanni Battista|"1855-04-17"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Cavandone|8.5178|45.9459
+113|Cucchiani Louis|"1856-01-15"|atelier artisanal |"1855_1860"|Isère|Auvergne-Rhône-Alpes|Grénoble|5.6868|45.5381
+113|Cucchiani Louis|"1852-04-05"|usine|"1848_1854"|Isère|Auvergne-Rhône-Alpes|Grénoble|5.6868|45.5381
+116|Thomé Jacqueline|"1852-09-02"|domicile|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Gaillard |6.2165|46.1834
+116|Thomé Jacqueline|"1855-11-07"|domicile|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Gaillard |6.2165|46.1834
+125|Chedal François|"1852-11-06"|horlogerie|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+125|Chedal François|"1855-12-18"|horlogerie|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+127|Terraz Isidore|"1852-12-02"|commerce|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Notre-Dame-du-Pré|6.5997|45.5167
+127|Terraz Isidore|"1856-12-16"|commerce|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Notre-Dame-du-Pré|6.5997|45.5167
+130|Machon Josephette|"1853-01-18"|domicile|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Saint-Cergues|6.3168|46.2338
+130|Machon Josephette|"1856-04-16"|domicile|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Saint-Cergues|6.3168|46.2338
+139|Avondo Jacques Joseph|"1853-05-22"|textile|"1848_1854"|Piemonte|Alessandria|Serravalle Scrivia|8.8591|44.7243
+139|Avondo Jacques Joseph|"1857-06-14"|textile|"1855_1860"|Piemonte|Alessandria|Serravalle Scrivia|8.8591|44.7243
+146|Michialino Celestin|"1862-08-25"|domicile|"1861_1870"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+146|Michialino Celestin|"1853-10-06"|horlogerie|"1848_1854"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+156|Terraz Alexis|"1855-09-24"|commerce|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Notre-Dame-du-Pré|6.5997|45.5167
+156|Terraz Alexis|"1858-11-29"|commerce|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Notre-Dame-du-Pré|6.5997|45.5167
+158|Michialino Rose Marie|"1855-11-19"|horlogerie|"1855_1860"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+158|Michialino Rose Marie|"1859-12-14"|horlogerie|"1855_1860"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+166|Blanchet Jean François|"1856-05-16"|textile|"1855_1860"|Savoie|Auvergne-Rhône-Alpes|Aix-les-Bains|5.9165|45.7002
+166|Blanchet Jean François|"1860-04-30"|textile|"1855_1860"|Savoie|Auvergne-Rhône-Alpes|Aix-les-Bains|5.9165|45.7002
+167|Bidognet Guillaume|"1856-05-27"|magasin|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Entremont|6.3834|45.9504
+167|Bidognet Guillaume|"1860-06-11"|magasin|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Entremont|6.3834|45.9504
+173|Meynent Ferdinand|"1851-07-19"|commerce|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+173|Meynent Ferdinand|"1851-07-19"|commerce|"1848_1854"|Saône-et-Loire|Bourgogne-Franche-Comté|Rully|4.7499|46.867
+173|Meynent Ferdinand|"1856-10-04"|commerce|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+173|Meynent Ferdinand|"1856-10-04"|commerce|"1855_1860"|Saône-et-Loire|Bourgogne-Franche-Comté|Rully|4.7499|46.867
+184|Zanone Jean|"1860-02-25"|usine|"1855_1860"|Piemonte|Biella|Masserano|8.2191|45.5996
+184|Zanone Jean|"1856-12-16"|usine|"1855_1860"|Piemonte|Biella|Masserano|8.2191|45.5996
+203|Graziano Joseph|"1862-10-30"|usine de gaz|"1861_1870"|Piemonte|Vercelli|Crescentino|8.1093|45.2062
+203|Graziano Joseph|"1858-12-13"|usine|"1855_1860"|Piemonte|Vercelli|Crescentino|8.1093|45.2062
+206|Louvois Jean Pantalcon|"1859-01-17"|domicile|"1855_1860"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+206|Louvois Jean Pantalcon|"1863-02-09"|domicile|"1861_1870"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+207|Baratto Stefano|"1863-02-16"|carrière|"1861_1870"|Piemonte|Torino|Traversella|7.7495|45.5169
+207|Baratto Stefano|"1867-03-13"|carrière|"1861_1870"|Piemonte|Torino|Traversella|7.7495|45.5169
+210|Bonaccio Louis Victor|"1863-03-23"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+210|Bonaccio Louis Victor|"1867-05-13"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+220|Lanfranchi Louis|"1859-07-27"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+220|Lanfranchi Louis|"1863-12-08"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+223|Lanfranchi Donato Samuele|"1864-01-21"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+223|Lanfranchi Donato Samuele|"1868-05-12"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+230|Poletti Pierre|"1864-05-20"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+230|Poletti Pierre|"1868-06-17"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+240|Cantone Giuseppe|"1865-05-15"|textile|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+240|Cantone Giuseppe|"1869-05-29"|textile|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+247|Savaglio Antoine Jean Joseph|"1865-11-20"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+247|Savaglio Antoine Jean Joseph|"1869-12-22"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+249|Avondo Therese|"1861-09-23"|textile|"1861_1870"|Piemonte|Alessandria|Serravalle Scrivia|8.8591|44.7243
+249|Avondo Therese|"1865-12-31"|textile|"1861_1870"|Piemonte|Alessandria|Serravalle Scrivia|8.8591|44.7243
+250|Marcellino Giacomo Antonio|"1862-01-27"|domicile|"1861_1870"|Piemonte|Torino|Pinerolo|7.332|44.888
+250|Marcellino Giacomo Antonio|"1866-02-20"|domicile|"1861_1870"|Piemonte|Torino|Pinerolo|7.332|44.888
+256|Balocca Giuseppe|"1866-04-07"|entreprise de construction|"1861_1870"|Piemonte|Biella|Brusnengo|8.2191|45.5996
+256|Balocca Giuseppe|"1870-06-17"|entreprise de construction|"1861_1870"|Piemonte|Biella|Brusnengo|8.2191|45.5996
+260|Storno Louis|"1866-07-09"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+260|Storno Louis|"1868-03-16"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+262|Arscone Andrea|"1870-11-03"|horlogerie|"1861_1870"|Piemonte|Alessandria|Murisengo|8.1367|45.0842
+262|Arscone Andrea|"1866-09-03"|horlogerie|"1861_1870"|Piemonte|Alessandria|Murisengo|8.1367|45.0842
+263|Magistrini Bernard|"1870-11-12"|usine de gaz|"1861_1870"|Piemonte|Novara|Maggiora|8.4334|45.6841
+263|Magistrini Bernard|"1866-09-03"|carrière|"1861_1870"|Piemonte|Novara|Maggiora|8.4334|45.6841
+294|Lazier Paul Antoine|"1869-03-21"|magasin|"1861_1870"|Valle d'Aosta|""|Aosta|7.321|45.7378
+294|Lazier Paul Antoine|"1865-01-31"|textile|"1861_1870"|Valle d'Aosta|""|Aosta|7.321|45.7378
+300|Comaita Giuseppe|"1865-05-29"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+300|Comaita Giuseppe|"1869-09-21"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+303|Maini Francesco|"1857-01-26"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+303|Maini Francesco|"1869-10-06"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+318|Viotti Pierre|"1857-04-08"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Rima San Giuseppe|7.9994|45.8852
+318|Viotti Pierre|"1861-05-13"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Rima San Giuseppe|7.9994|45.8852
+333|Frascotti Gaudenzio|"1858-04-03"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+333|Frascotti Gaudenzio|"1862-05-24"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+339|Frascotti Carlo|"1858-04-19"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+339|Frascotti Carlo|"1862-05-24"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+345|Fatta Giovanni Battista|"1858-07-19"|usine|"1855_1860"|Piemonte|Biella|Masserano|8.2191|45.5996
+345|Fatta Giovanni Battista|"1870-04-19"|atelier artisanal |"1861_1870"|Piemonte|Biella|Masserano|8.2191|45.5996
+376|Gavard-Boiti Jean Gabriel|"1856-02-02"|usine|"1855_1860"|Haute-Savoie|Annemasse|Viuz-en-Sallaz|6.4164|46.1501
+376|Gavard-Boiti Jean Gabriel|"1860-03-07"|usine|"1855_1860"|Haute-Savoie|Annemasse|Viuz-en-Sallaz|6.4164|46.1501
+402|Frascotti Amadeo|"1858-04-19"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+402|Frascotti Amadeo|"1862-05-24"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+6|Bally Fauchette|"1848-05-12"|domicile|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Cluses|6.5997|46.0668
+7|Falda Eusebe|"1848-05-12"|entreprise de construction|"1848_1854"|Piemonte|Biella|Sostegno|8.2686|45.6534
+11|Caracetto Jean|"1848-07-13"|entreprise de construction|"1848_1854"|Piemonte|Biella|Sostegno|8.2686|45.6534
+12|Fossetti Jacques Francois|"1848-07-20"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+13|Arbeglia Pierre|"1848-07-21"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Rimasco|8.066|45.8675
+19|Chevalier Joseph|"1848-07-28"|usine|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Évires|6.2244|46.0376
+27|Gayetti Pietro|"1848-09-25"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+28|Gras Emilie|"1848-10-14"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Challonges|5.8334|46.0168
+29|Goy Victor|"1848-11-23"|usine|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Cranves Sales|6.3003|46.1834
+31|Perget Louise|"1849-02-03"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Ville-la-Grand|6.2502|46.2
+33|Vuattoux Joseph|"1849-02-03"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+34|Magnetti Francois Caroline|"1849-02-21"|domicile|"1848_1854"|Piemonte|Vercelli|Rimasco|8.066|45.8675
+35|Limito Giosué|"1849-03-14"|magasin|"1848_1854"|Lombardia|Milano|Milano|9.1887|45.4688
+36|Cacciamonguaga Giacomo|"1849-03-24"|atelier artisanal |"1848_1854"|Lombardia|Monza|Monza|9.2738|45.5843
+39|Masoni Giuseppe|"1849-04-03"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Arola|8.3565|45.8087
+40|Begiorgi Carlo|"1849-04-03"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Rimasco|8.066|45.8675
+42|Fapponier Jacques|"1849-04-03"|usine|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Beaumont|6.117|46.1001
+46|Bogino Lorenzo|"1849-04-26"|entreprise de construction|"1848_1854"|Piemonte|Biella|Sostegno|8.2686|45.6534
+48|Favre Charles Joseph|"1849-07-16"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Pralognan-la-Vanoise|6.7164|45.3837
+52|Tosetti Jacques François|"1849-08-12"|horlogerie|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+53|Magni Jean Baptiste|"1849-08-23"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+57|Gross Emilie|"1849-10-22"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Challonges|5.8334|46.0168
+59|Bonzoni Ange-Marie|"1849-10-22"|domicile|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+62|Deschanifs Jacques Antoine|"1849-11-12"|domicile|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Notre-Dame-du-Pré|6.5997|45.5167
+63|Paget Louise|"1849-11-12"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Ville-la-Grand|6.2502|46.2
+64|Savaglio Dominique Marie|"1849-11-12"|magasin|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+67|Louvois Giovanni Taulalone|"1849-11-26"|domicile|"1848_1854"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+70|Turlo Pierre Marie|"1849-12-22"|entreprise de construction|"1848_1854"|Piemonte|Novara|Grignasco|8.3345|45.6841
+73|Magni Francesco|"1850-03-28"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+80|Jurico Alberto|"1850-07-09"|entreprise de construction|"1848_1854"|Piemonte|Biella|Masserano|8.2191|45.5996
+81|Maini Giacomo|"1850-07-09"|entreprise de construction|"1848_1854"|Lombardia|Mantova|Asola|10.4164|45.2178
+83|Schoend Jacques|"1850-07-29"|usine|"1848_1854"|Haute-Saône|Bourgogne-Franche-Comté|Héricourt|6.7635|47.5793
+86|Molino Joseph|"1850-09-06"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Campertogno|8.0324|45.801
+89|Cappelaro Giovanni|"1850-09-06"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+93|Chevalier François Felix|"1851-05-29"|horlogerie|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Évires|6.2244|46.0376
+100|Thorens Etiennette|"1851-08-23"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Loisin|6.3103|46.2929
+105|Gaillepand Josephine|"1851-09-29"|usine|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Bogève|6.434|46.2217
+106|Mejuet Alphonse|"1851-10-08"|commerce|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+107|Fournier Valentin|"1851-10-13"|commerce|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+108|Frossard Claude|"1851-10-14"|commerce|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+111|Ducrot Jean Nicolas|"1851-12-20"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Nangy|6.3003|46.1501
+119|Pertiset Marie|"1852-09-03"|domicile|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Lugrin|6.6646|46.4028
+120|Coltet Marie|"1852-09-08"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Annecy|6.1293|45.8993
+124|Degeneve Joseph Léopold|"1852-10-25"|magasin|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+132|Ridoguet Guillaume|"1853-02-01"|commerce|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Entremont|6.3834|45.9504
+134|Ravelli Pierre Jacques|"1853-01-24"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+136|Morganti Joseph|"1853-04-06"|entreprise de construction|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Migiandone|8.384|45.9852
+138|Piova Guadeuzio|"1853-04-21"|entreprise de construction|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+142|Veyrat Jacques Marie|"1853-07-28"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Neydens|6.0998|46.1168
+144|Cottet-Dumachin Daniel|"1853-09-30"|entreprise de construction|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Saint-Jean-d'Aulps|6.6498|46.2338
+149|Crejone François|"1854-11-25"|atelier artisanal |"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Montescheno|8.2329|46.0685
+150|Novelli Joseph Antoine|"1854-11-27"|horlogerie|"1848_1854"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+151|Levi Salvatore|"1854-12-23"|magasin|"1848_1854"|Piemonte|Vercelli|Vercelli|8.4224|45.3261
+154|Trouillet Gabriel|"1855-07-24"|atelier artisanal |"1855_1860"|Isère|Auvergne-Rhône-Alpes|Grénoble|5.6868|45.5381
+162|Tirozzi Jean Baptiste|"1856-04-03"|magasin|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Trasquera|8.2137|46.2131
+164|Dresco Joseph|"1856-04-16"|usine|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+168|Dellavedova Pierre|"1856-08-11"|horlogerie|"1855_1860"|Piemonte|Vercelli|Carcoforo|8.0489|45.9005
+169|Praz Maurice Joseph|"1856-09-06"|domicile|"1855_1860"|Valle d'Aosta||Arvier|7.1672|45.7033
+171|Fontana Charles|"1856-09-16"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Rossa|8.123|45.8565
+175|Brimiard Joseph|"1856-10-09"|commerce|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Seytroux|6.6333|46.2504
+176|Clendal Joseph|"1856-10-28"|atelier artisanal |"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+178|Degeneve François|"1856-11-14"|commerce|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+179|Rivoire Anne|"1856-11-20"|magasin|"1855_1860"|Lombardia|Pavia|Vigevano|8.8673|45.3184
+183|Pagani Jean Antoine|"1856-12-16"|atelier artisanal |"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Neydens|6.0998|46.1168
+185|Lanfranchi Costantin|"1857-01-12"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+186|Merlo Ernest|"1857-01-12"|magasin|"1855_1860"|Lombardia|Milano|Milano|9.1887|45.4688
+188|Piccot Clémence|"1857-01-12"|usine|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+189|Moruzzi Joseph|"1857-01-12"|horlogerie|"1855_1860"|Lombardia|Pavia|Garlasco|8.9168|45.2004
+190|Cheval Jean Louis|"1857-01-19"|commerce|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+191|Dbiolles François|"1857-01-22"|atelier artisanal |"1855_1860"|Savoie||Chambéry|5.9171|45.565
+192|Giguet Luc Philippe|"1857-01-22"|usine|"1855_1860"|Piemonte|Cuneo|Magliano Alpi|7.7989|44.4504
+193|Mina Vincent|"1857-01-22"|horlogerie|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+194|Degeneve Louis Eugène|"1857-01-22"|usine|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+196|Mattei Giovanni|"1857-01-26"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+197|Sacchi Justin|"1857-01-26"|horlogerie|"1855_1860"|Piemonte|Novara|Novara|8.6201|45.4515
+198|Moruzzi Guadenzio|"1857-02-10"|horlogerie|"1855_1860"|Lombardia|Pavia|Garlasco|8.9168|45.2004
+211|Giobbe Battista|"1863-04-08"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Rima San Giuseppe|7.9994|45.8852
+217|Giani Paolo Antonio|"1863-09-21"|entreprise de construction|"1861_1870"|Lombardia|Varese|Viconago-Cadegliano|8.8344|45.9674
+218|Fraglio Giacomo|"1863-09-23"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+222|Grezzi Gianni|"1864-01-27"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+224|Grezzi Joseph|"1864-01-27"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+226|Berton Elise|"1864-02-04"|pension|"1861_1870"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+231|Delpedro Hyacinthe|"1864-05-20"|atelier artisanal |"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Trasquera|8.2137|46.2131
+234|Nino Giuseppe|"1864-07-30"|atelier artisanal |"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+235|Castelli Gianni|"1864-11-21"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+239|Baratto Jaqueo|"1865-03-20"|carrière|"1861_1870"|Piemonte|Torino|Traversella|7.7495|45.5169
+242|Gatti Natale|"1865-05-29"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+246|Bianchi Giovanni|"1865-10-30"|usine|"1861_1870"|Lombardia|Como|Ronago|8.9834|45.8341
+248|Naula Pierre|"1865-11-29"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Vintebbio|8.3324|45.6673
+251|Sala Giulio|"1866-04-16"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+252|Gilardetti Giorgio|"1866-04-16"|commerce|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+254|Qaramello Arcangelo|"1866-04-30"|atelier artisanal |"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Quarna Sopra |8.373|45.8757
+257|Bonardi Lorenzo|"1866-05-07"|entreprise de construction|"1861_1870"|Piemonte|Biella|Cossato|8.1862|45.5612
+258|Lanfranchi Gianbattista|"1866-05-29"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+259|Maralla Cesare|"1866-07-02"|textile|"1861_1870"|Piemonte|Novara|Prato Sesia|8.3839|45.6515
+261|Roberti Michel Ange|"1866-07-09"|textile|"1861_1870"|Piemonte|Vercelli|Cellio|8.3126|45.7545
+264|Batazzi Joseph Martin|"1866-09-03"||"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Suna|8.5522|45.9239
+265|Ferraris Costantino|"1866-10-25"|commerce|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+268|Castelli Pietro|"1867-02-18"|commerce|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+274|Volpini Alessandro|"1867-06-08"|horlogerie|"1861_1870"|Emiglia-Romagna|Piacenza|Cortemaggiore|9.933|45.0007
+275|Storno Gabriele Georges|"1867-07-15"|magasin|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+277|Antonietti Giovanni|"1867-08-05"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Morca|8.21071|45.8209
+278|Antonietti Giuseppe|"1867-08-05"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Morca|8.21071|45.8209
+280|Comola Pasquale|"1867-12-07"|textile|"1861_1870"|Piemonte|Novara|Soriso|8.4114|45.7417
+281|Sacchi Gistiniano|"1867-12-16"|entreprise de construction|"1861_1870"|Piemonte|Novara|Maggiora|8.4334|45.6841
+282|Bozon Angelo Maria|"1867-12-16"|domicile|"1861_1870"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+283|Zenone Giovanni|"1868-04-05"|usine|"1861_1870"|Piemonte|Vercelli|Varallo|8.2576|45.8144
+284|Grezzi Giuseppe Giorgio|"1868-05-05"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+285|Berton Caroline|"1868-04-08"|pension|"1861_1870"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+286|Salina Anselmo|"1868-02-15"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+287|Lorenzone Agostino|"1868-03-09"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+289|Agnesetta Giovanni|"1868-03-16"|usine|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+292|Maini Veuve de Jean Baptiste||entreprise de construction|Error|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+293|Ferrero Secondo Giuseppe|"1868-10-12"|magasin|"1861_1870"|Piemonte|Asti|Asti|8.2082|44.9016
+295|Franchetti Francesco|"1869-04-23"|entreprise de construction|"1861_1870"|Lombardia|Varese|Curiglia |8.8042|46.0608
+296|Naula Francesco|"1869-07-05"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Vintebbio|8.3324|45.6673
+297|Tognetti Adolphine (veuve de Marc Antoine)|"1869-07-06"|domicile|"1861_1870"|Piemonte|Varallo|Parone|8.2566|45.7934
+298|Novelli Giuseppe Antonio|"1869-07-28"|horlogerie|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+299|Casasco Gaetano Serafino|"1869-10-08"|enseignement|"1861_1870"|Lombardia|Pavia|Garlasco|8.9168|45.2004
+302|Peroni Giovanni|"1869-10-02"|entreprise de construction|"1861_1870"|Piemonte|Novara|Maggiora|8.4334|45.6841
+304|Lazzarini Domenico|"1870-03-12"|entreprise de construction|"1861_1870"|Lombardia|Varese|Mesenzana|8.7657|45.9502
+308|Vandaux Marie Aime|"1848-01-22"|atelier artisanal |"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Thonon-les-Bains|6.4837|46.3671
+309|Ravier Pierre Francois Eugène|"1848-01-26"|magasin|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+310|Deneriez Paul Joseph|"1848-01-13"|horlogerie|"1848_1854"|Haute-Savoie|Auvergne-Rhône-Alpes|Cluses|6.5997|46.0668
+311|Mognetti Francois Caroline|"1848-02-02"|usine|"1848_1854"|Piemonte|Vercelli|Rimasco|8.066|45.8675
+312|Gavard Pivet Justine|"1848-02-18"||"1848_1854"|Isère|Auvergne-Rhône-Alpes|Vienne|4.8666|45.5167
+313|Chapuis Marie|"1857-02-28"|atelier artisanal |"1855_1860"|Côté-d'Or|Bourgogne-Franche-Comté|Ruelle-Vergy|4.897|47.1869
+315|Guy Leon|"1857-02-28"|magasin|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Bonneville|2.2945|50.0766
+317|Tosetti Giorgio|"1857-04-06"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+319|Piccot Francois|"1857-04-20"|usine|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+320|Senapa Louise|"1857-04-06"||"1855_1860"|Lazio||Roma|12.4818|41.8931
+321|Band Berthie Louise|"1857-04-30"|textile|"1855_1860"|Haute-Savoie|Annemasse|Viuz-en-Sallaz|6.4164|46.1501
+322|Marechal Jean Claude|"1857-06-02"|atelier artisanal |"1855_1860"|Haute-Saône|Bourgogne-Franche-Comté|Gray|5.5934|47.4457
+325|Beretta Giovanni|"1857-06-14"|usine|"1855_1860"|Piemonte|Biella|Brusnengo|8.2191|45.5996
+326|Grieshaber Giuseppe|"1857-06-14"|horlogerie|"1855_1860"|Lombardia|Milano|Milano|9.1887|45.4688
+327|Lanier Marie fils de Josephine|"1867-11-23"|atelier artisanal |"1861_1870"|Haute-Savoie|Auvergne-Rhône-Alpes|Juvigny|6.2801|46.215
+328|Cheval Celestine|"1857-12-17"|atelier artisanal |"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+334|Minoggio Jean André|"1858-04-12"|atelier artisanal |"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Buttogno|8.4663|46.1351
+338|Masoni Barthelemy|"1858-04-19"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Arola|8.3565|45.8087
+340|Bruno Jean|"1858-05-03"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Cellio|8.3126|45.7545
+342|Moro Antonio Andrea|"1858-05-09"|usine|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Domodossola|8.2906|46.118
+343|Duchene Hilaire|"1858-06-17"|magasin|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Annecy|6.1293|45.8993
+344|Piccot Germain|"1858-06-17"|magasin|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+348|Gavard-Monad Marie Francoise|"1858-07-23"|chemin de fer|"1855_1860"|Haute-Savoie|Annemasse|Viuz-en-Sallaz|6.4164|46.1501
+350|Pastore Charles Bernard|"1858-08-23"|atelier artisanal |"1855_1860"|Piemonte|Novara|Gozzano|8.4334|45.7512
+352|Tagand Francois|"1858-09-06"|atelier artisanal |"1855_1860"|Haute-Saône|Bourgogne-Franche-Comté|Vadans|5.5876|47.3488
+354|Borra Clement|"1858-10-11"|entreprise de construction|"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+355|Piccot Isedore|"1858-11-08"|commerce|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+357|Chedal Celestine|"1859-01-10"|agriculture|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+362|Berthet Joseph|"1859-07-04"|usine|"1855_1860"|Piemonte|Vercelli|Rima San Giuseppe|7.9994|45.8852
+364|Veillet Agathe|"1859-08-25"|usine|"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Habère-Lullin|6.4531|46.2359
+367|Tosetti François Jacques|"1868-02-15"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+368|Borel Jean Grax|"1859-10-22"|atelier artisanal |"1855_1860"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+371|Tosetti Georges|"1860-01-16"|entreprise de construction|"1855_1860"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+373|Praz Suplice Victor|"1860-01-24"|domicile|"1855_1860"|Valle d'Aosta||Arvier|7.1672|45.7033
+374|Berton Elise Caroline|"1860-01-24"|pension|"1855_1860"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+375|Bossoney Michel|"1860-01-17"|usine|"1855_1860"|Savoie||Chamonix-Mont-Blanc|6.8668|45.917
+377|Megavand Francois|"1860-03-12"|atelier artisanal |"1855_1860"|Haute-Savoie|Auvergne-Rhône-Alpes|Archamps|6.1307|46.1349
+380|Negretti Etienne|"1860-04-23"|entreprise de construction|"1855_1860"|Savoie||Chambéry|5.9171|45.565
+381|Berton Zeline Marie|"1860-01-24"|pension|"1855_1860"|Emiglia-Romagna|Piacenza|Bobbio|9.4124|44.7525
+382|China Joseph|"1860-04-23"|usine|"1855_1860"|Piemonte|Biella|Masserano|8.2191|45.5996
+384|Vinzio Joseph|"1860-04-07"|entreprise de construction|"1855_1860"|Piemonte|Novara|Grignasco|8.3345|45.6841
+387|Marolla Carlo|"1860-05-31"|horlogerie|"1855_1860"|Piemonte|Novara|Prato Sesia|8.3839|45.6515
+389|Delpedro Louis|"1860-07-02"|atelier artisanal |"1855_1860"|Piemonte|Verbano-Cusio-Ossola|Trasquera|8.2137|46.2131
+391|Magnetti Marie Elisabeth|"1860-09-11"|domicile|"1855_1860"|Piemonte|Vercelli|Rimasco|8.066|45.8675
+392|Graziano Luigi|"1860-10-08"|usine|"1855_1860"|Piemonte|Vercelli|Crescentino|8.1093|45.2062
+393|Bozon Michel|"1860-12-31"|usine|"1855_1860"|Valle d'Aosta|""|Valgrisenche|7.0656|45.6304
+394|Berotte Jaques|"1861-06-11"|carrière|"1861_1870"|Piemonte|Torino|Traversella|7.7495|45.5169
+398|Avondo Jean Christophe|"1861-12-02"|service artistique|"1861_1870"|Piemonte|Alessandria|Serravalle Scrivia|8.8591|44.7243
+401|Ravelli Giacomo|"1862-04-07"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+404|Manzini Carlo|"1853-02-01"|horlogerie|"1848_1854"|Piemonte|Verbano-Cusio-Ossola|Migiandone|8.384|45.9852
+407|Giordano Giuseppe|"1870-04-16"|atelier artisanal |"1861_1870"|Piemonte|Biella|Curino|8.2191|45.5996
+409|Calderini Paolo|"1870-04-20"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+410|Grezzi Giovanni|"1870-05-25"|commerce|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Varzo|8.2521|46.2093
+413|Bardotto Pasquero Desiderio|"1870-05-27"|atelier artisanal |"1861_1870"|Piemonte|Biella|Curino|8.2191|45.5996
+414|Valle Luigi|"1870-05-27"|atelier artisanal |"1861_1870"|Piemonte|Biella|Curino|8.2191|45.5996
+415|Reale Carlo|"1870-10-24"|chemin de fer|"1861_1870"|Campania||Napoli|14.2479|40.8377
+416|Bonaccio Serafino|"1870-06-17"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Borgosesia|8.2768|45.7186
+417|Bonardo Lorenzo|"1870-06-17"|entreprise de construction|"1861_1870"|Piemonte|Biella|Cossato|8.1862|45.5612
+418|Ravelli Pietro|"1870-06-25"|entreprise de construction|"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Albogno|8.4209|46.1396
+420|Naula Pierre|"1870-06-28"|entreprise de construction|"1861_1870"|Piemonte|Vercelli|Vintebbio|8.3324|45.6673
+421|Tirozzi Omobono|"1870-08-29"|atelier artisanal |"1861_1870"|Piemonte|Verbano-Cusio-Ossola|Trasquera|8.2137|46.2131
